@@ -1,0 +1,2172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scientia Ltd//iCalendar Server v 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT24H
+X-WR-CALNAME:Københavns Universitet Skema: 568331 - Anna Arendt Blak
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET 
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180827T101500
+DTEND;TZID=Europe/Copenhagen:20180827T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C79                                                                                                                                                                                                                                                                                                20180827T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/01+02.\nBeskrivelse / Description:F: Tanke og verden.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Di Nucci, Ezio.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180827T121500
+DTEND;TZID=Europe/Copenhagen:20180827T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D05                                                                                                                                                                                                                                                                                                20180827T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/01+02/11.\nBeskrivelse / Description:SAU 01+02.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T081500
+DTEND;TZID=Europe/Copenhagen:20180829T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C75                                                                                                                                                                                                                                                                                                20180829T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/03+04.\nBeskrivelse / Description:F: Rigtigt og forkert.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Di Nucci, Ezio.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T121500
+DTEND;TZID=Europe/Copenhagen:20180829T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D37                                                                                                                                                                                                                                                                                                20180829T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/03+04/11.\nBeskrivelse / Description:SAU 03+04.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180831T101500
+DTEND;TZID=Europe/Copenhagen:20180831T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C71                                                                                                                                                                                                                                                                                                20180831T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/05+06.\nBeskrivelse / Description:F: Midler og mål.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Di Nucci, Ezio.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180831T121500
+DTEND;TZID=Europe/Copenhagen:20180831T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D39                                                                                                                                                                                                                                                                                                20180831T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/05+06/11.\nBeskrivelse / Description:SAU 05+06.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180903T101500
+DTEND;TZID=Europe/Copenhagen:20180903T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C73                                                                                                                                                                                                                                                                                                20180903T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/07+08.\nBeskrivelse / Description:F: Lidelse og nydelse.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Lars.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180903T121500
+DTEND;TZID=Europe/Copenhagen:20180903T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D19                                                                                                                                                                                                                                                                                                20180903T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/07+08/11.\nBeskrivelse / Description:SAU 07+08.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180905T101500
+DTEND;TZID=Europe/Copenhagen:20180905T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C6F                                                                                                                                                                                                                                                                                                20180905T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/09+10.\nBeskrivelse / Description:F: Liv og død.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Christensen, Martin Ejsing.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180905T121500
+DTEND;TZID=Europe/Copenhagen:20180905T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C9B                                                                                                                                                                                                                                                                                                20180905T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/09+10/11.\nBeskrivelse / Description:SAU 09+10.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180907T101500
+DTEND;TZID=Europe/Copenhagen:20180907T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C6B                                                                                                                                                                                                                                                                                                20180907T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/11+12.\nBeskrivelse / Description:F: Ja og nej.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Di Nucci, Ezio.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180907T121500
+DTEND;TZID=Europe/Copenhagen:20180907T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C99                                                                                                                                                                                                                                                                                                20180907T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/11+12/11.\nBeskrivelse / Description:SAU 11+12.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180910T101500
+DTEND;TZID=Europe/Copenhagen:20180910T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C6D                                                                                                                                                                                                                                                                                                20180910T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/13+14.\nBeskrivelse / Description:F: Sundhed og sygdom.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Di Nucci, Ezio.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180910T121500
+DTEND;TZID=Europe/Copenhagen:20180910T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410CCD                                                                                                                                                                                                                                                                                                20180910T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/13+14/11.\nBeskrivelse / Description:SAU 13+14.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 21.2.26, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 21.2.26, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180912T101500
+DTEND;TZID=Europe/Copenhagen:20180912T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C77                                                                                                                                                                                                                                                                                                20180912T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/F/15+16.\nBeskrivelse / Description:F: Ris og ros.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Di Nucci, Ezio.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180912T121500
+DTEND;TZID=Europe/Copenhagen:20180912T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410C97                                                                                                                                                                                                                                                                                                20180912T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi/SAU/15+16/11.\nBeskrivelse / Description:SAU 15+16.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Guldmann, Finn.\nLokale / Room: Panum - 13.1.41, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.41, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T101500
+DTEND;TZID=Europe/Copenhagen:20180917T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541105B                                                                                                                                                                                                                                                                                                20180917T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/ Intro til 4. semester (F0).\nBeskrivelse / Description:F: Introduktion til 4. semester.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul, Jespersen, Thomas, Mortensen, Ole Hartvig, Quistorff, Bjørn, Veedfald, Simon, Ørskov, Cathrine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T121500
+DTEND;TZID=Europe/Copenhagen:20180917T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411059                                                                                                                                                                                                                                                                                                20180917T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Anatomi/01.\nBeskrivelse / Description:F: Introduktion til mave-tarmkanalen og peritoneum. Mave-tarmkanalens embryologi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Steen Seier.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T131500
+DTEND;TZID=Europe/Copenhagen:20180917T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411057                                                                                                                                                                                                                                                                                                20180917T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Anatomi/02.\nBeskrivelse / Description:F: Mave-tarmkanalens makroskopi (esophagus, ventrikel, tynd- og tyktarm).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Steen Seier.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180918T141500
+DTEND;TZID=Europe/Copenhagen:20180918T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411267                                                                                                                                                                                                                                                                                                20180918T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Anatomi/01/11.\nBeskrivelse / Description:Mave-tarm kanalen (mak).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180919T101500
+DTEND;TZID=Europe/Copenhagen:20180919T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411051                                                                                                                                                                                                                                                                                                20180919T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/01+02.\nBeskrivelse / Description:F: Enzymkinetik I + II.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Quistorff, Bjørn.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180920T081500
+DTEND;TZID=Europe/Copenhagen:20180920T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54110CB                                                                                                                                                                                                                                                                                                20180920T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU12/Anatomi/01/11/A.\nBeskrivelse / Description:Mave-tarm kanalen (mak).\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180921T101500
+DTEND;TZID=Europe/Copenhagen:20180921T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411055                                                                                                                                                                                                                                                                                                20180921T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Anatomi/03.\nBeskrivelse / Description:F: Mave-tarmkanalens histologi I (esophagus, ventrikel).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Steen Seier.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180921T111500
+DTEND;TZID=Europe/Copenhagen:20180921T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411053                                                                                                                                                                                                                                                                                                20180921T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Anatomi/04.\nBeskrivelse / Description:F: Mave-tarmkanalens histologi II (tynd- og tyktarm).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Steen Seier.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180924T101500
+DTEND;TZID=Europe/Copenhagen:20180924T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541106B                                                                                                                                                                                                                                                                                                20180924T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Fysiologi/01+02.\nBeskrivelse / Description:F: Gastroent. kontrol; enterisk nervesystem glat muskulatur og mobilitet.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180924T151500
+DTEND;TZID=Europe/Copenhagen:20180924T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541128D                                                                                                                                                                                                                                                                                                20180924T15150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Fysiologi/01/11.\nBeskrivelse / Description:Mave-Tarm kanalens motilitet.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Veedfald, Simon.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180925T091500
+DTEND;TZID=Europe/Copenhagen:20180925T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411069                                                                                                                                                                                                                                                                                                20180925T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Fysiologi/03.\nBeskrivelse / Description:F: Ventrikelsekretion.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Veedfald, Simon.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180925T101500
+DTEND;TZID=Europe/Copenhagen:20180925T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411067                                                                                                                                                                                                                                                                                                20180925T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Fysiologi/04.\nBeskrivelse / Description:F: Pancreas og spytsekretion.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Veedfald, Simon.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180925T131500
+DTEND;TZID=Europe/Copenhagen:20180925T150000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541134F                                                                                                                                                                                                                                                                                                20180925T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Anatomi/02/11.\nBeskrivelse / Description:Mundhulen (mik).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180926T101500
+DTEND;TZID=Europe/Copenhagen:20180926T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541105D                                                                                                                                                                                                                                                                                                20180926T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/ Dyr/01.\nBeskrivelse / Description:F: Forsøgsdyr som model for mennesket i forskningen.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Hau, Jann.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180926T151500
+DTEND;TZID=Europe/Copenhagen:20180926T170000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411277                                                                                                                                                                                                                                                                                                20180926T15150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Fysiologi/02/11.\nBeskrivelse / Description:Mave-Tarm kanalens sekretion og regulering.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Veedfald, Simon.\nLokale / Room: Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180927T081500
+DTEND;TZID=Europe/Copenhagen:20180927T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541104D                                                                                                                                                                                                                                                                                                20180927T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/03.\nBeskrivelse / Description:F: Stofskiftet i oversigt.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Quistorff, Bjørn.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180927T091500
+DTEND;TZID=Europe/Copenhagen:20180927T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541104B                                                                                                                                                                                                                                                                                                20180927T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/04.\nBeskrivelse / Description:F: Glycolyse.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Danielsen, Erik Michael.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180927T111500
+DTEND;TZID=Europe/Copenhagen:20180927T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411251                                                                                                                                                                                                                                                                                                20180927T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Anatomi/03/11.\nBeskrivelse / Description:Mave-tarm kanalen (mik).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180928T111500
+DTEND;TZID=Europe/Copenhagen:20180928T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411049                                                                                                                                                                                                                                                                                                20180928T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/05.\nBeskrivelse / Description:F: Gluconeogenese.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Danielsen, Erik Michael.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180928T121500
+DTEND;TZID=Europe/Copenhagen:20180928T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411047                                                                                                                                                                                                                                                                                                20180928T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/06.\nBeskrivelse / Description:F: Glycogen.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Danielsen, Erik Michael.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181001T101500
+DTEND;TZID=Europe/Copenhagen:20181001T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411045                                                                                                                                                                                                                                                                                                20181001T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/07.\nBeskrivelse / Description:F: Pentosefosfatshunt andre kulhydrater.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Danielsen, Erik Michael.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181001T121500
+DTEND;TZID=Europe/Copenhagen:20181001T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54112C5                                                                                                                                                                                                                                                                                                20181001T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi/01/11.\nBeskrivelse / Description:PIL 1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181002T121500
+DTEND;TZID=Europe/Copenhagen:20181002T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411043                                                                                                                                                                                                                                                                                                20181002T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/08+09.\nBeskrivelse / Description:F: TCA Cyklus, respirationskæde og oxidativ fosforylering.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Quistorff, Bjørn.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181003T141500
+DTEND;TZID=Europe/Copenhagen:20181003T150000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411349                                                                                                                                                                                                                                                                                                20181003T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/01/11.\nBeskrivelse / Description:Case 1-1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.1.83, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.83, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181003T161500
+DTEND;TZID=Europe/Copenhagen:20181003T170000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411061                                                                                                                                                                                                                                                                                                20181003T16150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Anatomi/05.\nBeskrivelse / Description:F: Lever, pancreas, galdeveje; makroskopi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Steen Seier.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181003T171500
+DTEND;TZID=Europe/Copenhagen:20181003T180000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541105F                                                                                                                                                                                                                                                                                                20181003T17150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Anatomi/06.\nBeskrivelse / Description:F: Lever, pancreas, galdeveje; histologi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Steen Seier.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181005T101500
+DTEND;TZID=Europe/Copenhagen:20181005T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411333                                                                                                                                                                                                                                                                                                20181005T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/02/11.\nBeskrivelse / Description:Case 1-2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T081500
+DTEND;TZID=Europe/Copenhagen:20181008T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411041                                                                                                                                                                                                                                                                                                20181008T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/10+11.\nBeskrivelse / Description:F: Lipider I + II.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Benn, Marianne.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T101500
+DTEND;TZID=Europe/Copenhagen:20181008T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411217                                                                                                                                                                                                                                                                                                20181008T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/03/11.\nBeskrivelse / Description:Case 2-1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 15.2.15 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 15.2.15 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T121500
+DTEND;TZID=Europe/Copenhagen:20181008T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411365                                                                                                                                                                                                                                                                                                20181008T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Anatomi/04/11.\nBeskrivelse / Description:Hepar. v. portae galdeveje pancreas milt (mak).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.36: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.36: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T151500
+DTEND;TZID=Europe/Copenhagen:20181008T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54111A9                                                                                                                                                                                                                                                                                                20181008T15150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi/02/11.\nBeskrivelse / Description:PIL 2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181009T161500
+DTEND;TZID=Europe/Copenhagen:20181009T170000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541103F                                                                                                                                                                                                                                                                                                20181009T16150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/12.\nBeskrivelse / Description:F: Lipider III.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Benn, Marianne.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181010T081500
+DTEND;TZID=Europe/Copenhagen:20181010T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541103D                                                                                                                                                                                                                                                                                                20181010T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/13+14.\nBeskrivelse / Description:F: Proteiner og aminosyrer.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Mortensen, Ole Hartvig.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181010T101500
+DTEND;TZID=Europe/Copenhagen:20181010T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411201                                                                                                                                                                                                                                                                                                20181010T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/04/11.\nBeskrivelse / Description:Case 2-2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181011T081500
+DTEND;TZID=Europe/Copenhagen:20181011T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541115D                                                                                                                                                                                                                                                                                                20181011T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Fysiologi/03/11.\nBeskrivelse / Description:Mave-Tarm kanalens absorption.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Veedfald, Simon.\nLokale / Room: Panum - 13.1.41, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.41, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181011T111500
+DTEND;TZID=Europe/Copenhagen:20181011T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411315                                                                                                                                                                                                                                                                                                20181011T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/05/11.\nBeskrivelse / Description:Case 3-1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 31.01.4a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 31.01.4a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181011T120000
+DTEND;TZID=Europe/Copenhagen:20181011T160000
+DTSTAMP:20181010T050833
+UID:6C00FDDEC62DBE00509BCA31169EC645                                                                                                                                                                                                                                                                                                20181011T12000020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i Medicinsk etik og filosofi - Undervisningsfri
+DESCRIPTION:Aktivitet / Activity: Me04-E-Etik og Filosofi.\nBeskrivelse / Description:F: Karrieredag.\nUndervisningstype / Activity Type: Undervisningsfri.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 411A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181011T120000
+DTEND;TZID=Europe/Copenhagen:20181011T160000
+DTSTAMP:20181010T050833
+UID:9B0933D82334E5F5113CC1EE9D6CF461                                                                                                                                                                                                                                                                                                20181011T12000020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave.\nBeskrivelse / Description:F: Karrieredag.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 411A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181011T120000
+DTEND;TZID=Europe/Copenhagen:20181011T160000
+DTSTAMP:20181010T050833
+UID:9B0933D82334E5F5113CC1EE9D6CF495                                                                                                                                                                                                                                                                                                20181011T12000020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte.\nBeskrivelse / Description:F: Karrieredag.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 411A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181012T111500
+DTEND;TZID=Europe/Copenhagen:20181012T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411193                                                                                                                                                                                                                                                                                                20181012T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi/03/11.\nBeskrivelse / Description:PIL 3.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181015T081500
+DTEND;TZID=Europe/Copenhagen:20181015T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541103B                                                                                                                                                                                                                                                                                                20181015T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/15+16.\nBeskrivelse / Description:F: Nukleotider.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Danielsen, Erik Michael.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181015T121500
+DTEND;TZID=Europe/Copenhagen:20181015T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411235                                                                                                                                                                                                                                                                                                20181015T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Anatomi/05/11.\nBeskrivelse / Description:Lever Galdeveje Spytkirtler (mik).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181015T141500
+DTEND;TZID=Europe/Copenhagen:20181015T150000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54112AB                                                                                                                                                                                                                                                                                                20181015T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi/04/11.\nBeskrivelse / Description:PIL 4.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.2.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181016T081500
+DTEND;TZID=Europe/Copenhagen:20181016T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54110A1                                                                                                                                                                                                                                                                                                20181016T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU12/Fysiologi/01/11/A.\nBeskrivelse / Description:Fysiologiøvelse 1: Epithelial transport.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Kjærgaard, Sebastian.\nLokale / Room: Panum - BMI, Und.lokale, Bygn. 10.1.5: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - BMI, Und.lokale, Bygn. 10.1.5: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181016T161500
+DTEND;TZID=Europe/Copenhagen:20181016T180000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411039                                                                                                                                                                                                                                                                                                20181016T16150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/17+18.\nBeskrivelse / Description:F: Xenobiotica, ethanol.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Mortensen, Ole Hartvig.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181017T121500
+DTEND;TZID=Europe/Copenhagen:20181017T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411037                                                                                                                                                                                                                                                                                                20181017T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/19.\nBeskrivelse / Description:F: Ernæring; basalstofskifte og energibehov.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Mortensen, Ole Hartvig.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181017T131500
+DTEND;TZID=Europe/Copenhagen:20181017T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411035                                                                                                                                                                                                                                                                                                20181017T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/20.\nBeskrivelse / Description:F: Ernæring; sammensætning af en fuldgyldig kost: makronæringsstoffer.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Mortensen, Ole Hartvig.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181018T081500
+DTEND;TZID=Europe/Copenhagen:20181018T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54111F9                                                                                                                                                                                                                                                                                                20181018T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/06/11.\nBeskrivelse / Description:Case 3-2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181019T101500
+DTEND;TZID=Europe/Copenhagen:20181019T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411033                                                                                                                                                                                                                                                                                                20181019T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/21.\nBeskrivelse / Description:F: Ernæring; sammensætning af en fuldgyldig kost: mikroernæringsstoffer.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Mortensen, Ole Hartvig.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181019T111500
+DTEND;TZID=Europe/Copenhagen:20181019T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411031                                                                                                                                                                                                                                                                                                20181019T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/22.\nBeskrivelse / Description:F: Ernæring; udvalgte fejlernæringstilstande.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Mortensen, Ole Hartvig.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181019T131500
+DTEND;TZID=Europe/Copenhagen:20181019T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54111E3                                                                                                                                                                                                                                                                                                20181019T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/07/11.\nBeskrivelse / Description:Case 4-1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T081500
+DTEND;TZID=Europe/Copenhagen:20181022T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411295                                                                                                                                                                                                                                                                                                20181022T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi/05/11.\nBeskrivelse / Description:PIL 5.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T101500
+DTEND;TZID=Europe/Copenhagen:20181022T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541102F                                                                                                                                                                                                                                                                                                20181022T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/23.\nBeskrivelse / Description:F: Stofskifteregulering og fedme.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Landt, Jannik.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T111500
+DTEND;TZID=Europe/Copenhagen:20181022T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541102D                                                                                                                                                                                                                                                                                                20181022T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Biokemi/24.\nBeskrivelse / Description:F: Regneeksempler.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Quistorff, Bjørn.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T161500
+DTEND;TZID=Europe/Copenhagen:20181022T180000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411065                                                                                                                                                                                                                                                                                                20181022T16150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/F/Fysiologi/05+06.\nBeskrivelse / Description:F: Fordøjelse og absorption.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181024T101500
+DTEND;TZID=Europe/Copenhagen:20181024T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54112F7                                                                                                                                                                                                                                                                                                20181024T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/08/11.\nBeskrivelse / Description:Case 4-2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181026T111500
+DTEND;TZID=Europe/Copenhagen:20181026T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54112E1                                                                                                                                                                                                                                                                                                20181026T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/09/11.\nBeskrivelse / Description:Case 5-1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181029T091500
+DTEND;TZID=Europe/Copenhagen:20181029T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411179                                                                                                                                                                                                                                                                                                20181029T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi/06/11.\nBeskrivelse / Description:PIL 6.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.1.37, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.37, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181031T111500
+DTEND;TZID=Europe/Copenhagen:20181031T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54111C5                                                                                                                                                                                                                                                                                                20181031T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi-case/10/11.\nBeskrivelse / Description:Case 5-2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181101T091500
+DTEND;TZID=Europe/Copenhagen:20181101T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D55                                                                                                                                                                                                                                                                                                20181101T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Anatomi/01.\nBeskrivelse / Description:F: Hjertets makroskopi og histologi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Ørskov, Cathrine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181101T161500
+DTEND;TZID=Europe/Copenhagen:20181101T170000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D49                                                                                                                                                                                                                                                                                                20181101T16150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/01.\nBeskrivelse / Description:F: Introduktion til hjerte-kredsløb.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jespersen, Thomas.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181101T171500
+DTEND;TZID=Europe/Copenhagen:20181101T180000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D47                                                                                                                                                                                                                                                                                                20181101T17150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/02.\nBeskrivelse / Description:F: Impulsgenerering og hjertets elektrofysiologi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jespersen, Thomas.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181102T081500
+DTEND;TZID=Europe/Copenhagen:20181102T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410E4B                                                                                                                                                                                                                                                                                                20181102T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU12/Anatomi/01/11/A.\nBeskrivelse / Description:Hjertet (mak).\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.39: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.39: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181105T081500
+DTEND;TZID=Europe/Copenhagen:20181105T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D6F                                                                                                                                                                                                                                                                                                20181105T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/03+04.\nBeskrivelse / Description:F: EKG og arytmier.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Kanters, Jørgen K..\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181105T101500
+DTEND;TZID=Europe/Copenhagen:20181105T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D91                                                                                                                                                                                                                                                                                                20181105T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU12/Fysiologi/03/11.\nBeskrivelse / Description:Fysiologiøvelse 3: EKG og Ekkokardiografi.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: .\nLokale / Room: Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.39: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.39: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181106T081500
+DTEND;TZID=Europe/Copenhagen:20181106T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410F33                                                                                                                                                                                                                                                                                                20181106T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/01/11.\nBeskrivelse / Description:Hjerte-kredsløb 1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Lubberding, Anniek Frederike.\nLokale / Room: Panum - 13.2.25, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.25, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181106T091500
+DTEND;TZID=Europe/Copenhagen:20181106T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410F5F                                                                                                                                                                                                                                                                                                20181106T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Anatomi/01/11.\nBeskrivelse / Description:Hjertets histologi (mik).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - 13.2.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181107T081500
+DTEND;TZID=Europe/Copenhagen:20181107T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D79                                                                                                                                                                                                                                                                                                20181107T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/05+06.\nBeskrivelse / Description:F: Hjertets pumpefunktion og arbejde.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Nielsen, Morten Schak.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181107T121500
+DTEND;TZID=Europe/Copenhagen:20181107T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410F1D                                                                                                                                                                                                                                                                                                20181107T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/02/11.\nBeskrivelse / Description:Hjerte-kredsløb 2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Lubberding, Anniek Frederike.\nLokale / Room: Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181107T141500
+DTEND;TZID=Europe/Copenhagen:20181107T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54112DB                                                                                                                                                                                                                                                                                                20181107T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU24/Biokemi/00/11.\nBeskrivelse / Description:Øvelsesforberedelse.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 13.1.37, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.37, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181108T121500
+DTEND;TZID=Europe/Copenhagen:20181108T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411083                                                                                                                                                                                                                                                                                                20181108T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Laboratorieøvelse
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU12/Biokemi/01/11.\nBeskrivelse / Description:Biokemiøvelse 1 - 1. del.\nUndervisningstype / Activity Type: Laboratorieøvelse.\nUnderviser / Staff: Hallberg, Line Amalie Egholm, Jensen, Inger Spangsberg.\nLokale / Room: Panum - 22.5.15, Und.lokale: Blegdamsvej 3 / Panum, Panum - 22.5.29, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 22.5.15, Und.lokale: Blegdamsvej 3 / Panum, Panum - 22.5.29, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181109T121500
+DTEND;TZID=Europe/Copenhagen:20181109T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541106F                                                                                                                                                                                                                                                                                                20181109T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Laboratorieøvelse
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU12/Biokemi/02/11.\nBeskrivelse / Description:Biokemiøvelse 1 - 2. del.\nUndervisningstype / Activity Type: Laboratorieøvelse.\nUnderviser / Staff: Jensen, Inger Spangsberg, Hallberg, Line Amalie Egholm.\nLokale / Room: Panum - 22.5.15, Und.lokale: Blegdamsvej 3 / Panum, Panum - 22.5.29, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 22.5.15, Und.lokale: Blegdamsvej 3 / Panum, Panum - 22.5.29, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181112T101500
+DTEND;TZID=Europe/Copenhagen:20181112T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC54110FD                                                                                                                                                                                                                                                                                                20181112T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU12/Biokemi/03/11/A.\nBeskrivelse / Description:Efterbehandling af øvelsens 1. del.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 20.1.16, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 20.1.16, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181112T121500
+DTEND;TZID=Europe/Copenhagen:20181112T130000
+DTSTAMP:20181010T050833
+UID:720CA2FA8FE510096D7EACEBFA486886                                                                                                                                                                                                                                                                                                20181112T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Energi/Biokemi/01.\nBeskrivelse / Description:F: Principperne for musklernes energistofskifte I.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Quistorff, Bjørn.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181113T081500
+DTEND;TZID=Europe/Copenhagen:20181113T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D75                                                                                                                                                                                                                                                                                                20181113T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/07.\nBeskrivelse / Description:F: Vaskulær funktion 1.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Sørensen, Charlotte Mehlin.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181113T091500
+DTEND;TZID=Europe/Copenhagen:20181113T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D73                                                                                                                                                                                                                                                                                                20181113T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/08.\nBeskrivelse / Description:F: Vaskulær funktion 2.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Sørensen, Charlotte Mehlin.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181113T101500
+DTEND;TZID=Europe/Copenhagen:20181113T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D71                                                                                                                                                                                                                                                                                                20181113T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/09.\nBeskrivelse / Description:F: Perfusion i organer og væv; det føtale kredsløb, lymfesystemets funktion.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Sørensen, Charlotte Mehlin.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181113T121500
+DTEND;TZID=Europe/Copenhagen:20181113T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541111D                                                                                                                                                                                                                                                                                                20181113T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/SAU12/Biokemi/04/11/A.\nBeskrivelse / Description:Efterbehandling af øvelsens 2. del.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Jensen, Inger Spangsberg.\nLokale / Room: Panum - 20.1.16, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 20.1.16, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181114T111500
+DTEND;TZID=Europe/Copenhagen:20181114T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410F07                                                                                                                                                                                                                                                                                                20181114T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/03/11.\nBeskrivelse / Description:Hjerte-kredsløb 3.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Lubberding, Anniek Frederike.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181114T131500
+DTEND;TZID=Europe/Copenhagen:20181114T150000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC541102B                                                                                                                                                                                                                                                                                                20181114T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/Cafe/Biokemi/01.\nBeskrivelse / Description:Biokemi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Danielsen, Erik Michael, Landt, Jannik, Mortensen, Ole Hartvig.\nLokale / Room: Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.30, Mini 1: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.30, Mini 1: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181116T081500
+DTEND;TZID=Europe/Copenhagen:20181116T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D6D                                                                                                                                                                                                                                                                                                20181116T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/10.\nBeskrivelse / Description:F: Blodtryksregulering 1: Autonom og humoral kontrol.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jespersen, Thomas.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181116T091500
+DTEND;TZID=Europe/Copenhagen:20181116T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D6B                                                                                                                                                                                                                                                                                                20181116T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/11.\nBeskrivelse / Description:F: Blodtryksregulering: Integreret regulering.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jespersen, Thomas.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181116T101500
+DTEND;TZID=Europe/Copenhagen:20181116T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411029                                                                                                                                                                                                                                                                                                20181116T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/Cafe/Biokemi/02.\nBeskrivelse / Description:Biokemi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Landt, Jannik, Mortensen, Ole Hartvig, Grave, Michael.\nLokale / Room: Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum, Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.30, Mini 1: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum, Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.30, Mini 1: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181119T131500
+DTEND;TZID=Europe/Copenhagen:20181119T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D69                                                                                                                                                                                                                                                                                                20181119T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/12.\nBeskrivelse / Description:F: Kredsløbsregulering ved hjerteinsufficiens og klapsygdomme.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jespersen, Thomas.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181119T141500
+DTEND;TZID=Europe/Copenhagen:20181119T150000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D67                                                                                                                                                                                                                                                                                                20181119T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/13.\nBeskrivelse / Description:F: Kredsløbsregulering ved hypertension og hypotension (blødning).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jespersen, Thomas.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181119T151500
+DTEND;TZID=Europe/Copenhagen:20181119T170000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411027                                                                                                                                                                                                                                                                                                20181119T15150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/Cafe/Biokemi/03.\nBeskrivelse / Description:Biokemi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Landt, Jannik, Mortensen, Ole Hartvig, Grave, Michael.\nLokale / Room: Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum, Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.30, Mini 1: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum, Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum, Panum - Aud. 29.01.30, Mini 1: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181120T121500
+DTEND;TZID=Europe/Copenhagen:20181120T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410EF1                                                                                                                                                                                                                                                                                                20181120T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/04/11.\nBeskrivelse / Description:Hjerte-kredsløb 4.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Lubberding, Anniek Frederike.\nLokale / Room: Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181120T131500
+DTEND;TZID=Europe/Copenhagen:20181120T170000
+DTSTAMP:20181010T050833
+UID:BBC4F0EA698EB7724BF0BDD186CB0E87                                                                                                                                                                                                                                                                                                20181120T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU12/Energi/01/11.\nBeskrivelse / Description:Energiøvelse 1: Energiomsætning.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: .\nLokale / Room: Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.5: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.39: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.5: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.39: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181122T131500
+DTEND;TZID=Europe/Copenhagen:20181122T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D51                                                                                                                                                                                                                                                                                                20181122T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Anatomi/02.\nBeskrivelse / Description:F: Luftveje og lungernes makroskopiske anatomi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Ørskov, Cathrine.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T111500
+DTEND;TZID=Europe/Copenhagen:20181123T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410F8B                                                                                                                                                                                                                                                                                                20181123T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Anatomi/02/11.\nBeskrivelse / Description:Luftvejene, lunger (mak).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T131500
+DTEND;TZID=Europe/Copenhagen:20181123T170000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410E37                                                                                                                                                                                                                                                                                                20181123T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU12/Fysiologi/02/11.\nBeskrivelse / Description:Fysiologiøvelse 2: Kredsløbsregulering.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Flouda, Konstantina, Damgaard, Morten.\nLokale / Room: Panum - 31.01.16a, Und.lokale: Blegdamsvej 3 / Panum, Panum - 31.01.26a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 31.01.16a, Und.lokale: Blegdamsvej 3 / Panum, Panum - 31.01.26a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181126T081500
+DTEND;TZID=Europe/Copenhagen:20181126T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D65                                                                                                                                                                                                                                                                                                20181126T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/14.\nBeskrivelse / Description:F: Gaslove, spirometri, lungevolumina.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181126T091500
+DTEND;TZID=Europe/Copenhagen:20181126T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D63                                                                                                                                                                                                                                                                                                20181126T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/15.\nBeskrivelse / Description:F: Ventilation, dødt rum, alveolær ventilation.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181126T101500
+DTEND;TZID=Europe/Copenhagen:20181126T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D61                                                                                                                                                                                                                                                                                                20181126T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/16.\nBeskrivelse / Description:F: Respirationens mekanik.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181126T111500
+DTEND;TZID=Europe/Copenhagen:20181126T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D4F                                                                                                                                                                                                                                                                                                20181126T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Anatomi/04.\nBeskrivelse / Description:F: Luftveje og lungernes histologi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Ørskov, Cathrine.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181126T121500
+DTEND;TZID=Europe/Copenhagen:20181126T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410EDD                                                                                                                                                                                                                                                                                                20181126T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/05/11.\nBeskrivelse / Description:Hjerte-kredsløb 5.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Lubberding, Anniek Frederike.\nLokale / Room: Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. 29.01.32, Mini 2: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181127T081500
+DTEND;TZID=Europe/Copenhagen:20181127T090000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D53                                                                                                                                                                                                                                                                                                20181127T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Anatomi/03.\nBeskrivelse / Description:F: Hjertet, karsystemet og lungernes embryologi.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Ørskov, Cathrine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181127T101500
+DTEND;TZID=Europe/Copenhagen:20181127T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D5F                                                                                                                                                                                                                                                                                                20181127T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/17.\nBeskrivelse / Description:F: Lungernes perfusion og væskebalance.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jacobsen, Jens Christian Brings.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181128T141500
+DTEND;TZID=Europe/Copenhagen:20181128T150000
+DTSTAMP:20181010T050833
+UID:720CA2FA8FE510096D7EACEBFA48688A                                                                                                                                                                                                                                                                                                20181128T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Energi/Biokemi/02.\nBeskrivelse / Description:F: Principperne for musklernes energistofskifte II.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Quistorff, Bjørn.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181128T151500
+DTEND;TZID=Europe/Copenhagen:20181128T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410EC7                                                                                                                                                                                                                                                                                                20181128T15150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/06/11.\nBeskrivelse / Description:Respiration 1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Hilsted, Linda.\nLokale / Room: Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181129T081500
+DTEND;TZID=Europe/Copenhagen:20181129T100000
+DTSTAMP:20181010T050833
+UID:29358F902A2BCCE83ACA86414467DAC0                                                                                                                                                                                                                                                                                                20181129T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Energi/01+02.\nBeskrivelse / Description:F: Stofskifte og energiomsætning I + II.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181129T141500
+DTEND;TZID=Europe/Copenhagen:20181129T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410F49                                                                                                                                                                                                                                                                                                20181129T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Anatomi/03/11.\nBeskrivelse / Description:Luftvejene, lunger (mik).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181129T161500
+DTEND;TZID=Europe/Copenhagen:20181129T180000
+DTSTAMP:20181010T050833
+UID:720CA2FA8FE510096D7EACEBFA4868B0                                                                                                                                                                                                                                                                                                20181129T16150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Energi/Biokemi/11.\nBeskrivelse / Description:Kvantitative forhold ved musklernes energistofskifte - inkl. beregningseksempler.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Quistorff, Bjørn.\nLokale / Room: Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181203T081500
+DTEND;TZID=Europe/Copenhagen:20181203T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410E03                                                                                                                                                                                                                                                                                                20181203T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU12
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU12/Fysiologi/04/11/A.\nBeskrivelse / Description:Fysiologiøvelse 4: Respirationens mekanik.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: .\nLokale / Room: Panum - BMI, Und.lokale, Bygn. 10.1.5: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - BMI, Und.lokale, Bygn. 10.1.5: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181203T121500
+DTEND;TZID=Europe/Copenhagen:20181203T140000
+DTSTAMP:20181010T050833
+UID:29358F902A2BCCE83ACA86414467D964                                                                                                                                                                                                                                                                                                20181203T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Energi/03+04.\nBeskrivelse / Description:F: Idrætsfysiologiske eksempler.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Kjær, Michael.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181204T121500
+DTEND;TZID=Europe/Copenhagen:20181204T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D4B                                                                                                                                                                                                                                                                                                20181204T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Anatomi/05.\nBeskrivelse / Description:F: Funktions- og billeddiagnostik af hjerte og lunger.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Damgaard, Morten.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181205T121500
+DTEND;TZID=Europe/Copenhagen:20181205T130000
+DTSTAMP:20181010T050833
+UID:29358F902A2BCCE83ACA86414467D994                                                                                                                                                                                                                                                                                                20181205T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Energi/05.\nBeskrivelse / Description:F: Muskelarbejde, energiomsætning og sundhed.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Larsen, Steen.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181206T121500
+DTEND;TZID=Europe/Copenhagen:20181206T140000
+DTSTAMP:20181010T050833
+UID:29358F902A2BCCE83ACA86414467D992                                                                                                                                                                                                                                                                                                20181206T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Energi/06+07.\nBeskrivelse / Description:F: Temperaturregulering.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T091500
+DTEND;TZID=Europe/Copenhagen:20181207T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410F75                                                                                                                                                                                                                                                                                                20181207T09150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Anatomi/04/11.\nBeskrivelse / Description:Mediastinum, thymus, grænsestreng (mak).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T161500
+DTEND;TZID=Europe/Copenhagen:20181207T180000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5411025                                                                                                                                                                                                                                                                                                20181207T16150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i mave, tarm og lever - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Mave/Cafe/Fysiologi/01.\nBeskrivelse / Description:Fysiologi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Veedfald, Simon.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181210T101500
+DTEND;TZID=Europe/Copenhagen:20181210T110000
+DTSTAMP:20181010T050833
+UID:29358F902A2BCCE83ACA86414467DBEF                                                                                                                                                                                                                                                                                                20181210T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Energi/01/11.\nBeskrivelse / Description:Problemløsning - kvantitative forhold I.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: .\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181210T121500
+DTEND;TZID=Europe/Copenhagen:20181210T130000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D5D                                                                                                                                                                                                                                                                                                20181210T12150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/18.\nBeskrivelse / Description:F: Blodets O2 og CO2 transport.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jacobsen, Jens Christian Brings.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181210T131500
+DTEND;TZID=Europe/Copenhagen:20181210T140000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D5B                                                                                                                                                                                                                                                                                                20181210T13150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/19.\nBeskrivelse / Description:F: Diffusion i lunger og væv.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jacobsen, Jens Christian Brings.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181211T111500
+DTEND;TZID=Europe/Copenhagen:20181211T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410EB1                                                                                                                                                                                                                                                                                                20181211T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/07/11.\nBeskrivelse / Description:Respiration 2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Hilsted, Linda.\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181217T081500
+DTEND;TZID=Europe/Copenhagen:20181217T100000
+DTSTAMP:20181010T050833
+UID:29358F902A2BCCE83ACA86414467DCC5                                                                                                                                                                                                                                                                                                20181217T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Energi/02/11.\nBeskrivelse / Description:Problemløsning - kvantitative forhold II.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: .\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181218T101500
+DTEND;TZID=Europe/Copenhagen:20181218T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D59                                                                                                                                                                                                                                                                                                20181218T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/20.\nBeskrivelse / Description:F: Ventilation-perfusions ratio.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181218T111500
+DTEND;TZID=Europe/Copenhagen:20181218T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D57                                                                                                                                                                                                                                                                                                20181218T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/21.\nBeskrivelse / Description:F: Respirationens regulering.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181219T141500
+DTEND;TZID=Europe/Copenhagen:20181219T160000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410E9B                                                                                                                                                                                                                                                                                                20181219T14150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/08/11.\nBeskrivelse / Description:Respiration 3.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Hilsted, Linda.\nLokale / Room: Panum - 13.1.37, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.1.37, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181220T101500
+DTEND;TZID=Europe/Copenhagen:20181220T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D45                                                                                                                                                                                                                                                                                                20181220T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/22+23.\nBeskrivelse / Description:F: Neutralitetsregulering.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181221T081500
+DTEND;TZID=Europe/Copenhagen:20181221T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410E3F                                                                                                                                                                                                                                                                                                20181221T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Anatomi/05/11.\nBeskrivelse / Description:MAK gennemgang og spørgetime (lokale 14.01.37).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jakob Schmidt.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190102T081500
+DTEND;TZID=Europe/Copenhagen:20190102T100000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410E85                                                                                                                                                                                                                                                                                                20190102T08150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/09/11.\nBeskrivelse / Description:Respiration 4.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Hilsted, Linda.\nLokale / Room: Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190103T101500
+DTEND;TZID=Europe/Copenhagen:20190103T110000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D43                                                                                                                                                                                                                                                                                                20190103T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/F/Fysiologi/24.\nBeskrivelse / Description:F: Højde, hypoxi, klinik, lungefunktionsprøver.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jacobsen, Jens Christian Brings.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190104T111500
+DTEND;TZID=Europe/Copenhagen:20190104T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410E6F                                                                                                                                                                                                                                                                                                20190104T11150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - SAU24
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/SAU24/Fysiologi/10/11.\nBeskrivelse / Description:Respiration 5.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Hilsted, Linda.\nLokale / Room: Panum - 31.01.38a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 411A;
+LOCATION:Panum - 31.01.38a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190111T101500
+DTEND;TZID=Europe/Copenhagen:20190111T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D3D                                                                                                                                                                                                                                                                                                20190111T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/Cafe/Fysiologi/01.\nBeskrivelse / Description:Fysiologi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jespersen, Thomas.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190114T101500
+DTEND;TZID=Europe/Copenhagen:20190114T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D3B                                                                                                                                                                                                                                                                                                20190114T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/Cafe/Fysiologi/02.\nBeskrivelse / Description:Fysiologi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190115T101500
+DTEND;TZID=Europe/Copenhagen:20190115T120000
+DTSTAMP:20181010T050833
+UID:78D7D3BE2CF253C4C408DF1CC5410D3F                                                                                                                                                                                                                                                                                                20190115T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/Cafe/Fysiologi/03.\nBeskrivelse / Description:Fysiologi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jacobsen, Jens Christian Brings.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190116T101500
+DTEND;TZID=Europe/Copenhagen:20190116T120000
+DTSTAMP:20181010T050833
+UID:29358F902A2BCCE83ACA86414467DABC                                                                                                                                                                                                                                                                                                20190116T10150020181010T050833
+CLASS:PUBLIC
+CREATED:20181010T050833
+LAST-MODIFIED:20181010T050833
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i hjerte, kredsløb og lunger - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me04-E-Hjerte/Cafe/Energi/01.\nBeskrivelse / Description:Energi: Cafétimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Holst, Jens Juul.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 411A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+
+END:VCALENDAR

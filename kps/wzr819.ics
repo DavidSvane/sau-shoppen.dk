@@ -1,0 +1,2007 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scientia Ltd//iCalendar Server v 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT24H
+X-WR-CALNAME:Københavns Universitet Skema: 447318 - Kathrine Bitsch Østergaard
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET 
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T081500
+DTEND;TZID=Europe/Copenhagen:20180829T090000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413489                                                                                                                                                                                                                                                                                                20180829T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-Intro/F/01.\nBeskrivelse / Description:F: Introduktion til fakultetet.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Kurtzhals, Jørgen.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T090000
+DTEND;TZID=Europe/Copenhagen:20180829T101500
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413483                                                                                                                                                                                                                                                                                                20180829T09000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - Andet
+DESCRIPTION:Aktivitet / Activity: Me01-E-Intro/Rundvisning.\nBeskrivelse / Description:Rundvisning på Panum - mødes foran Lundsgaard.\nUndervisningstype / Activity Type: Andet.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T101500
+DTEND;TZID=Europe/Copenhagen:20180829T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54134C7                                                                                                                                                                                                                                                                                                20180829T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Intro/SAU24/01/07.\nBeskrivelse / Description:Sau: Oplæg ved tutor (kun for stud.med.).\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: .\nLokale / Room: Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180830T080000
+DTEND;TZID=Europe/Copenhagen:20180831T000000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413487                                                                                                                                                                                                                                                                                                20180830T08000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - Andet
+DESCRIPTION:Aktivitet / Activity: Me01-E-Intro/Erhvervsdag.\nBeskrivelse / Description:Erhvervsdag.\nUndervisningstype / Activity Type: Andet.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180831T081500
+DTEND;TZID=Europe/Copenhagen:20180831T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413495                                                                                                                                                                                                                                                                                                20180831T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Intro/F/03 + Od01-E-Intro/F/7+8.\nBeskrivelse / Description:F7+8: Introduktion til IT og evaluering af undervisningen.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: .\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180831T101500
+DTEND;TZID=Europe/Copenhagen:20180831T110000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541349B                                                                                                                                                                                                                                                                                                20180831T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Intro/F/04 + Od01-E-Intro/F/9.\nBeskrivelse / Description:F9: Introduktion til Basal humanbiologi.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Thomsen, Morten Bækgaard.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180903T101500
+DTEND;TZID=Europe/Copenhagen:20180903T110000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54134A1                                                                                                                                                                                                                                                                                                20180903T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Intro/F/05 + Od01-E-Intro/F/10.\nBeskrivelse / Description:F10: Introduktion til cellens kemiske komponenter (FK00).\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Bisgaard, Hanne Cathrine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T091500
+DTEND;TZID=Europe/Copenhagen:20180904T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54134BF                                                                                                                                                                                                                                                                                                20180904T09150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Intro/SAU24/02/07.\nBeskrivelse / Description:Sau: Introduktion til studievejledningen.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: .\nLokale / Room: Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T101500
+DTEND;TZID=Europe/Copenhagen:20180904T110000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DCB                                                                                                                                                                                                                                                                                                20180904T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/01 + Od01-E-Kemi/F/01.\nBeskrivelse / Description:F1: Ligevægt og pH.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Brahm, Jesper.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T111500
+DTEND;TZID=Europe/Copenhagen:20180904T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D5F                                                                                                                                                                                                                                                                                                20180904T11150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/02 + Od01B-E-HumBio/F/02.\nBeskrivelse / Description:F2: Fysiologisk regulation i den menneskelige organisme.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Thomsen, Morten Bækgaard.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T123000
+DTEND;TZID=Europe/Copenhagen:20180904T130000
+DTSTAMP:20180821T050635
+UID:5BFF958E0C3BB7FC35904BC2FF1DBDE4                                                                                                                                                                                                                                                                                                20180904T12300020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-F-Intro/SAU24/03/07.\nBeskrivelse / Description:Rundvisning på Det Kgl. Bibliotek – KUB Nord i Informationen, Mødested: Nørre Alle 49.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180910T081500
+DTEND;TZID=Europe/Copenhagen:20180910T131500
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541397D                                                                                                                                                                                                                                                                                                20180910T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/02/07-BLS-Hjerte/lungeredning.\nBeskrivelse / Description:Førstehjælp - hold 107.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: .\nLokale / Room: Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum, Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum, Panum - 13.1.63, Und.lokale - Mærsk: Blegdamsvej 3 / Panum, Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum, Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum, Panum - 13.1.63, Und.lokale - Mærsk: Blegdamsvej 3 / Panum, Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180911T121500
+DTEND;TZID=Europe/Copenhagen:20180911T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D23                                                                                                                                                                                                                                                                                                20180911T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/03 + Od01B-E-HumBio/F/03.\nBeskrivelse / Description:F3: Celler og væv - struktur og funktion 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Schmitt, Nicole.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180911T131500
+DTEND;TZID=Europe/Copenhagen:20180911T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D29                                                                                                                                                                                                                                                                                                20180911T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/04 + Od01B-E-HumBio/F/04.\nBeskrivelse / Description:F4: Celler og væv - struktur og funktion 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Schmitt, Nicole.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180912T081500
+DTEND;TZID=Europe/Copenhagen:20180912T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413777                                                                                                                                                                                                                                                                                                20180912T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/01/07.\nBeskrivelse / Description:SAU1: Ligevægt og pH.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 21.2.14, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 21.2.14, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180912T101500
+DTEND;TZID=Europe/Copenhagen:20180912T110000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541392D                                                                                                                                                                                                                                                                                                20180912T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/00/07.\nBeskrivelse / Description:Introduktion til SAU-24.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.2.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180914T081500
+DTEND;TZID=Europe/Copenhagen:20180914T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413599                                                                                                                                                                                                                                                                                                20180914T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/01/1-11.\nBeskrivelse / Description:Cafetime 1: Ligevægt og pH.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180914T121500
+DTEND;TZID=Europe/Copenhagen:20180914T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DD1                                                                                                                                                                                                                                                                                                20180914T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/02 + Od01-E-Kemi/F/02.\nBeskrivelse / Description:F2: Opløsninger, Opløselighed, Gasser.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Brahm, Jesper.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180914T141500
+DTEND;TZID=Europe/Copenhagen:20180914T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413485                                                                                                                                                                                                                                                                                                20180914T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Introduktionskursus - Andet
+DESCRIPTION:Aktivitet / Activity: Me01-E-Intro/Holdrepræsentanttime.\nBeskrivelse / Description:Holdrepræsentanttime.\nUndervisningstype / Activity Type: Andet.\nUnderviser / Staff: .\nLokale / Room: Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T101500
+DTEND;TZID=Europe/Copenhagen:20180917T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413827                                                                                                                                                                                                                                                                                                20180917T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/02/07.\nBeskrivelse / Description:SAU2: Opløsninger, Opløslighed, Gasser.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 13.1.41, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.41, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T121500
+DTEND;TZID=Europe/Copenhagen:20180917T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DD7                                                                                                                                                                                                                                                                                                20180917T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/05 + Od01B-E-HumBio/F/05.\nBeskrivelse / Description:F5: Hud og epitheler.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Brakebusch, Cord Herbert.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T131500
+DTEND;TZID=Europe/Copenhagen:20180917T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541395D                                                                                                                                                                                                                                                                                                20180917T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/01.\nBeskrivelse / Description:F1: TPK- Introduktion, læge/patientroller.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Sørensen, Ellen Lydia.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180918T141500
+DTEND;TZID=Europe/Copenhagen:20180918T170000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54139C9                                                                                                                                                                                                                                                                                                20180918T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/03/07.\nBeskrivelse / Description:SAU 1: Intro og tavshedspligt.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Buusman, Allan.\nLokale / Room: Panum - 31.01.38a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 31.01.38a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180920T101500
+DTEND;TZID=Europe/Copenhagen:20180920T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413919                                                                                                                                                                                                                                                                                                20180920T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/01/07.\nBeskrivelse / Description:SAU1: Celler og væv.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180920T121500
+DTEND;TZID=Europe/Copenhagen:20180920T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541363D                                                                                                                                                                                                                                                                                                20180920T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Øvelse
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/Øv/SAU12/01/07/a.\nBeskrivelse / Description:AØ1 – Mikroskopi.\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Mik.lokale, Bygn. 15.2.10-S: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mik.lokale, Bygn. 15.2.10-S: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180921T081500
+DTEND;TZID=Europe/Copenhagen:20180921T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541359B                                                                                                                                                                                                                                                                                                20180921T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/02/1-11.\nBeskrivelse / Description:Cafetime 2: Opløsninger, Opløselighed, Gasser.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180921T121500
+DTEND;TZID=Europe/Copenhagen:20180921T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D2F                                                                                                                                                                                                                                                                                                20180921T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/03 + Od01-E-Kemi/F/03.\nBeskrivelse / Description:F3: Termodynamik.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Brahm, Jesper.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180924T121500
+DTEND;TZID=Europe/Copenhagen:20180924T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D65                                                                                                                                                                                                                                                                                                20180924T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/06 + Od01B-E-HumBio/F/06.\nBeskrivelse / Description:F6: Nervesystemet 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kjærulff, Ole.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180924T131500
+DTEND;TZID=Europe/Copenhagen:20180924T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D6B                                                                                                                                                                                                                                                                                                20180924T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/07 + Od01B-E-HumBio/F/07.\nBeskrivelse / Description:F7: Nervesystemet 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kjærulff, Ole.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180924T141500
+DTEND;TZID=Europe/Copenhagen:20180924T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413965                                                                                                                                                                                                                                                                                                20180924T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/03.\nBeskrivelse / Description:F2: Sociale faktorers indflydelse på sygdomme.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Knudsen, Thomas Bøllingtoft.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180925T081500
+DTEND;TZID=Europe/Copenhagen:20180925T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541376B                                                                                                                                                                                                                                                                                                20180925T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/03/07.\nBeskrivelse / Description:SAU3: Termodynamik.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180925T121500
+DTEND;TZID=Europe/Copenhagen:20180925T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DC5                                                                                                                                                                                                                                                                                                20180925T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/38 + Od01B-E-HumBio/F/38.\nBeskrivelse / Description:Dyreforsøg.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Hau, Jann.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180926T080000
+DTEND;TZID=Europe/Copenhagen:20180926T180000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413967                                                                                                                                                                                                                                                                                                20180926T08000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Praktik
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/Praktik/01.\nBeskrivelse / Description:I praksis hos tutorlægerne - alle hold.\nUndervisningstype / Activity Type: Praktik.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180927T101500
+DTEND;TZID=Europe/Copenhagen:20180927T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54138B7                                                                                                                                                                                                                                                                                                20180927T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/02/07.\nBeskrivelse / Description:SAU2: Problemer med en visdomstand.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180928T081500
+DTEND;TZID=Europe/Copenhagen:20180928T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413597                                                                                                                                                                                                                                                                                                20180928T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/03/1-11.\nBeskrivelse / Description:Cafetime 3: Termodynamik.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Gesmar, Henrik, Jensen, Jan.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180928T101500
+DTEND;TZID=Europe/Copenhagen:20180928T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413631                                                                                                                                                                                                                                                                                                20180928T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Øvelse
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/Øv/SAU12/02/07/a.\nBeskrivelse / Description:AØ2 – Mikroskopi og VirMik.\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Mik.lokale, Bygn. 15.2.18: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mik.lokale, Bygn. 15.2.18: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180928T121500
+DTEND;TZID=Europe/Copenhagen:20180928T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DE9                                                                                                                                                                                                                                                                                                20180928T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/04 + Od01-E-Kemi/F/04/A.\nBeskrivelse / Description:F4: Funktionelle grupper A.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180928T131500
+DTEND;TZID=Europe/Copenhagen:20180928T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412E01                                                                                                                                                                                                                                                                                                20180928T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/04 + Od01-E-Kemi/F/04/B.\nBeskrivelse / Description:F4: Funktionelle grupper B.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181001T121500
+DTEND;TZID=Europe/Copenhagen:20181001T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D71                                                                                                                                                                                                                                                                                                20181001T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/08 + Od01B-E-HumBio/F/08.\nBeskrivelse / Description:F8: Nervesystemet 3.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kjærulff, Ole.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181001T131500
+DTEND;TZID=Europe/Copenhagen:20181001T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D77                                                                                                                                                                                                                                                                                                20181001T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/09 + Od01B-E-HumBio/F/09.\nBeskrivelse / Description:F9: Nervesystemet 4.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kjærulff, Ole.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181002T081500
+DTEND;TZID=Europe/Copenhagen:20181002T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541381B                                                                                                                                                                                                                                                                                                20181002T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/04/07.\nBeskrivelse / Description:SAU4: Funktionelle grupper A+ B.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181003T121500
+DTEND;TZID=Europe/Copenhagen:20181003T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413959                                                                                                                                                                                                                                                                                                20181003T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/02.\nBeskrivelse / Description:F3: Den svære samtale.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Busch, Christian Juul.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181004T081500
+DTEND;TZID=Europe/Copenhagen:20181004T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541390B                                                                                                                                                                                                                                                                                                20181004T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/03/07.\nBeskrivelse / Description:SAU3: Sprøjtemidler til skadedyrsbekæmpelse.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181004T101500
+DTEND;TZID=Europe/Copenhagen:20181004T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413657                                                                                                                                                                                                                                                                                                20181004T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Øvelse
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/Øv/SAU12/03/07/a.\nBeskrivelse / Description:AØ3 – VirMik.\nUndervisningstype / Activity Type: Øvelse.\nUnderviser / Staff: .\nLokale / Room: Panum - 15.2.27b Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.27b Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181004T141500
+DTEND;TZID=Europe/Copenhagen:20181004T170000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541399B                                                                                                                                                                                                                                                                                                20181004T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/04/07.\nBeskrivelse / Description:SAU 2:  Kommunikation.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Buusman, Allan.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181005T081500
+DTEND;TZID=Europe/Copenhagen:20181005T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541359D                                                                                                                                                                                                                                                                                                20181005T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/04/1-11.\nBeskrivelse / Description:Cafetime 4: Funktionelle grupper.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181005T121500
+DTEND;TZID=Europe/Copenhagen:20181005T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DF5                                                                                                                                                                                                                                                                                                20181005T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/05 + Od01-E-Kemi/F/05.\nBeskrivelse / Description:F5: Aminosyrer og proteiner.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Nielsen, Peter E..\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T101500
+DTEND;TZID=Europe/Copenhagen:20181008T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413725                                                                                                                                                                                                                                                                                                20181008T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/05/07.\nBeskrivelse / Description:SAU5: Aminosyrer og proteiner.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T121500
+DTEND;TZID=Europe/Copenhagen:20181008T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D7D                                                                                                                                                                                                                                                                                                20181008T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/10 + Od01B-E-HumBio/F/10.\nBeskrivelse / Description:F10: Bevægeapparatet 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Alkjær, Tine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T131500
+DTEND;TZID=Europe/Copenhagen:20181008T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D83                                                                                                                                                                                                                                                                                                20181008T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/11 + Od01B-E-HumBio/F/11.\nBeskrivelse / Description:F11: Bevægeapparatet 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Alkjær, Tine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181008T141500
+DTEND;TZID=Europe/Copenhagen:20181008T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413955                                                                                                                                                                                                                                                                                                20181008T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/07.\nBeskrivelse / Description:F4: Medicinsk uforklarede symptomer - MUS.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Kragstrup, Jakob.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181011T101500
+DTEND;TZID=Europe/Copenhagen:20181011T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54138F9                                                                                                                                                                                                                                                                                                20181011T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/04/07.\nBeskrivelse / Description:SAU4: Fitnesscenteret.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181011T120000
+DTEND;TZID=Europe/Copenhagen:20181011T160000
+DTSTAMP:20180821T050635
+UID:481F2222F1352289CFBA611EAADBFFF6                                                                                                                                                                                                                                                                                                20181011T12000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/Karrieredag.\nBeskrivelse / Description:Karrieredag.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181012T081500
+DTEND;TZID=Europe/Copenhagen:20181012T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541359F                                                                                                                                                                                                                                                                                                20181012T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/05/1-11.\nBeskrivelse / Description:Cafetime 5: Aminosyrer og proteiner.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Gesmar, Henrik, Jensen, Jan.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181012T121500
+DTEND;TZID=Europe/Copenhagen:20181012T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DDD                                                                                                                                                                                                                                                                                                20181012T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/06 + Od01-E-Kemi/F/06.\nBeskrivelse / Description:F6: Kinetik og enzymer.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Nielsen, Peter E..\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181012T131500
+DTEND;TZID=Europe/Copenhagen:20181012T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DBF                                                                                                                                                                                                                                                                                                20181012T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/00 + Od01-E-Kemi/F/00/A.\nBeskrivelse / Description:F: Sikkerhedsforelæsning.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Siukstaite, Lina.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181015T121500
+DTEND;TZID=Europe/Copenhagen:20181015T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D89                                                                                                                                                                                                                                                                                                20181015T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/12 + Od01B-E-HumBio/F/12.\nBeskrivelse / Description:F12: Hormoner 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kissow, Hannelouise.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181015T131500
+DTEND;TZID=Europe/Copenhagen:20181015T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D8F                                                                                                                                                                                                                                                                                                20181015T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/13 + Od01B-E-HumBio/F/13.\nBeskrivelse / Description:F13: Hormoner 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kissow, Hannelouise.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181016T081500
+DTEND;TZID=Europe/Copenhagen:20181016T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413949                                                                                                                                                                                                                                                                                                20181016T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/06/07.\nBeskrivelse / Description:SAU6: Kinetik og enzymer.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181016T101500
+DTEND;TZID=Europe/Copenhagen:20181016T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54136A9                                                                                                                                                                                                                                                                                                20181016T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU12
+DESCRIPTION:Aktivitet / Activity: Me01-E-Fys/SAU12/01/07/a.\nBeskrivelse / Description:Sau: Fysiologiøvelse 1: Hudreceptorer.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Kjærulff, Ole.\nLokale / Room: Panum - 31.01.16a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 31.01.16a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181017T141500
+DTEND;TZID=Europe/Copenhagen:20181017T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413963                                                                                                                                                                                                                                                                                                20181017T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/05.\nBeskrivelse / Description:F5: Den bio-psyko-sociale sygdomsmodel.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: la Cour, Peter.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181018T081500
+DTEND;TZID=Europe/Copenhagen:20181018T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54134E3                                                                                                                                                                                                                                                                                                20181018T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Anatomiske demonstrationer
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/AnDemo/SAU8/01/07/a.\nBeskrivelse / Description:AD1 – Nervesystemet.\nUndervisningstype / Activity Type: Anatomiske demonstrationer.\nUnderviser / Staff: Mølgaard, Søren.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181018T121500
+DTEND;TZID=Europe/Copenhagen:20181018T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413519                                                                                                                                                                                                                                                                                                20181018T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Anatomiske demonstrationer
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/AnDemo/SAU8/01/07/c.\nBeskrivelse / Description:AD1 – Nervesystemet.\nUndervisningstype / Activity Type: Anatomiske demonstrationer.\nUnderviser / Staff: Mølgaard, Søren.\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.33: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181018T141500
+DTEND;TZID=Europe/Copenhagen:20181018T170000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541398D                                                                                                                                                                                                                                                                                                20181018T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/05/07.\nBeskrivelse / Description:SAU 3: Lægens rolle og patient forholdet.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Buusman, Allan.\nLokale / Room: Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181019T081500
+DTEND;TZID=Europe/Copenhagen:20181019T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135A1                                                                                                                                                                                                                                                                                                20181019T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/06/1-11.\nBeskrivelse / Description:Cafetime 6: Kinetik og enzymer + øvelsesforberedelse (1 time hver).\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181019T121500
+DTEND;TZID=Europe/Copenhagen:20181019T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DE3                                                                                                                                                                                                                                                                                                20181019T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/07 + Od01-E-Kemi/F/07.\nBeskrivelse / Description:F7: Bicarbonatbufferen.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Hilsted, Linda.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T121500
+DTEND;TZID=Europe/Copenhagen:20181022T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D95                                                                                                                                                                                                                                                                                                20181022T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/14 + Od01B-E-HumBio/F/14.\nBeskrivelse / Description:F14: Reproduktion.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kissow, Hannelouise.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T131500
+DTEND;TZID=Europe/Copenhagen:20181022T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413961                                                                                                                                                                                                                                                                                                20181022T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/06.\nBeskrivelse / Description:F6: Stress, ressource, coping og sygdomsopfattelse.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Graungaard, Anette Hauskov.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T141500
+DTEND;TZID=Europe/Copenhagen:20181022T160000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413897                                                                                                                                                                                                                                                                                                20181022T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/05/07.\nBeskrivelse / Description:SAU5: Stress.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.61, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181024T080000
+DTEND;TZID=Europe/Copenhagen:20181024T180000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413969                                                                                                                                                                                                                                                                                                20181024T08000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Praktik
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/Praktik/02.\nBeskrivelse / Description:I praksis hos tutorlægerne - alle hold.\nUndervisningstype / Activity Type: Praktik.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181025T081500
+DTEND;TZID=Europe/Copenhagen:20181025T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541374B                                                                                                                                                                                                                                                                                                20181025T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/07/07.\nBeskrivelse / Description:SAU7: Bicarbonatbufferen.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181025T101500
+DTEND;TZID=Europe/Copenhagen:20181025T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413887                                                                                                                                                                                                                                                                                                20181025T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/06/07.\nBeskrivelse / Description:SAU6: Uønsket barnløshed.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.1.83, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.83, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181025T141500
+DTEND;TZID=Europe/Copenhagen:20181025T170000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413A13                                                                                                                                                                                                                                                                                                20181025T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/06/07.\nBeskrivelse / Description:SAU 4:  Den bio-psyko-sociale sygdomsmodel / fra Bånd til Rapport.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Buusman, Allan.\nLokale / Room: Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181029T131500
+DTEND;TZID=Europe/Copenhagen:20181029T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D9B                                                                                                                                                                                                                                                                                                20181029T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/15 + Od01B-E-HumBio/F/15.\nBeskrivelse / Description:F15: Mave-tarm og fordøjelse 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kissow, Hannelouise.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181029T141500
+DTEND;TZID=Europe/Copenhagen:20181029T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DA1                                                                                                                                                                                                                                                                                                20181029T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/16 + Od01B-E-HumBio/F/16.\nBeskrivelse / Description:F16: Mave-tarm og fordøjelse 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kissow, Hannelouise.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181029T151500
+DTEND;TZID=Europe/Copenhagen:20181029T160000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D17                                                                                                                                                                                                                                                                                                20181029T15150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/40 + Od01B-E-Humbio/F/40.\nBeskrivelse / Description:Humanbiologi - basis for både odontologer og medicinere.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Kirkeby, Svend, Pedersen, Anne Marie Lynge.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181030T081500
+DTEND;TZID=Europe/Copenhagen:20181030T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541353F                                                                                                                                                                                                                                                                                                20181030T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Anatomiske demonstrationer
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/AnDemo/SAU8/02/07/a.\nBeskrivelse / Description:AD2 – Bevægeapparatet.\nUndervisningstype / Activity Type: Anatomiske demonstrationer.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.40: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.40: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181030T121500
+DTEND;TZID=Europe/Copenhagen:20181030T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541352D                                                                                                                                                                                                                                                                                                20181030T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Anatomiske demonstrationer
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/AnDemo/SAU8/02/07/c.\nBeskrivelse / Description:AD2 – Bevægeapparatet.\nUndervisningstype / Activity Type: Anatomiske demonstrationer.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.39: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.39: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181101T111500
+DTEND;TZID=Europe/Copenhagen:20181101T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413873                                                                                                                                                                                                                                                                                                20181101T11150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/07/07.\nBeskrivelse / Description:SAU7: Spiseforstyrrelse.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 31.01.38a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 31.01.38a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181101T131500
+DTEND;TZID=Europe/Copenhagen:20181101T164500
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135E7                                                                                                                                                                                                                                                                                                20181101T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Laboratorieøvelse
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Øv/SAU12/01/07a.\nBeskrivelse / Description:Bikarbonat-øvelsen.\nUndervisningstype / Activity Type: Laboratorieøvelse.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Kemi Øvelseslab., Bygn. 8.1.33: .\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Kemi Øvelseslab., Bygn. 8.1.33: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181102T081500
+DTEND;TZID=Europe/Copenhagen:20181102T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135A5                                                                                                                                                                                                                                                                                                20181102T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/07/1-11.\nBeskrivelse / Description:Cafetime 7: Bicarbonatbufferen.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181102T121500
+DTEND;TZID=Europe/Copenhagen:20181102T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DEF                                                                                                                                                                                                                                                                                                20181102T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/08 + Od01-E-Kemi/F/08.\nBeskrivelse / Description:F8: Kulhydrater 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Wandall, Hans H..\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181105T121500
+DTEND;TZID=Europe/Copenhagen:20181105T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DA7                                                                                                                                                                                                                                                                                                20181105T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/17 + Od01B-E-HumBio/F/17.\nBeskrivelse / Description:F17: Blod og immunsystemet 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Ploug, Thorkil.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181105T131500
+DTEND;TZID=Europe/Copenhagen:20181105T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DAD                                                                                                                                                                                                                                                                                                20181105T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/18 + Od01B-E-HumBio/F/18.\nBeskrivelse / Description:F18: Blod og immunsystemet 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Ploug, Thorkil.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181106T081500
+DTEND;TZID=Europe/Copenhagen:20181106T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54137FD                                                                                                                                                                                                                                                                                                20181106T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/08/07.\nBeskrivelse / Description:SAU8: Kulhydrater 1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.25 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181106T141500
+DTEND;TZID=Europe/Copenhagen:20181106T160000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413797                                                                                                                                                                                                                                                                                                20181106T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/08/07.\nBeskrivelse / Description:SAU8: Blødende, hævet tandkød.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181107T080000
+DTEND;TZID=Europe/Copenhagen:20181107T180000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541396B                                                                                                                                                                                                                                                                                                20181107T08000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Praktik
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/Praktik/03.\nBeskrivelse / Description:I praksis hos tutorlægerne - alle hold.\nUndervisningstype / Activity Type: Praktik.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181108T090000
+DTEND;TZID=Europe/Copenhagen:20181108T110000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412E5F                                                                                                                                                                                                                                                                                                20181108T09000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Prøve
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/Midterm + Od01-E-Kemin/Midterm.\nBeskrivelse / Description:Midterm - Afholdes på Peter Bangs Vej.\nUndervisningstype / Activity Type: Prøve.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181108T141500
+DTEND;TZID=Europe/Copenhagen:20181108T170000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54139AD                                                                                                                                                                                                                                                                                                20181108T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/08/07.\nBeskrivelse / Description:SAU 5:  Ressourcer, coping, sygdomsopfattelse.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Buusman, Allan.\nLokale / Room: Panum - 15.2.23 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.23 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181109T081500
+DTEND;TZID=Europe/Copenhagen:20181109T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135A7                                                                                                                                                                                                                                                                                                20181109T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/08/1-11.\nBeskrivelse / Description:Cafetime 8: Kulhydrater 1.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Gesmar, Henrik, Jensen, Jan.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181109T121500
+DTEND;TZID=Europe/Copenhagen:20181109T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D1D                                                                                                                                                                                                                                                                                                20181109T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/09 + Od01-E-Kemi/F/09.\nBeskrivelse / Description:F9: Kulhydrater 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Wandall, Hans H..\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181112T101500
+DTEND;TZID=Europe/Copenhagen:20181112T110000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413953                                                                                                                                                                                                                                                                                                20181112T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/09.\nBeskrivelse / Description:F7: Interkulturel kommunikation.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Reventlow, Susanne.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181112T121500
+DTEND;TZID=Europe/Copenhagen:20181112T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D35                                                                                                                                                                                                                                                                                                20181112T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/19 + Od01B-E-HumBio/F/19.\nBeskrivelse / Description:F19: Hjerte og kredsløb 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Thomsen, Morten Bækgaard.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181112T131500
+DTEND;TZID=Europe/Copenhagen:20181112T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D3B                                                                                                                                                                                                                                                                                                20181112T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/20 + Od01B-E-HumBio/F/20.\nBeskrivelse / Description:F20: Hjerte og kredsløb 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Thomsen, Morten Bækgaard.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181115T101500
+DTEND;TZID=Europe/Copenhagen:20181115T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54137AB                                                                                                                                                                                                                                                                                                20181115T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/09/07.\nBeskrivelse / Description:SAU9: Akromegali.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181119T121500
+DTEND;TZID=Europe/Copenhagen:20181119T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541395B                                                                                                                                                                                                                                                                                                20181119T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/F/08.\nBeskrivelse / Description:F8: Patientens vej gennem Sundhedsvæsenet.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Mäkelä, Marja-Leena Marjukka.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181120T131500
+DTEND;TZID=Europe/Copenhagen:20181120T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54137E9                                                                                                                                                                                                                                                                                                20181120T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/09/07.\nBeskrivelse / Description:SAU9: Kulhydrater 2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181122T141500
+DTEND;TZID=Europe/Copenhagen:20181122T170000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413A31                                                                                                                                                                                                                                                                                                20181122T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/10/07.\nBeskrivelse / Description:SAU 6:  Patientens vej gennem sundhedsvæsenet / tentamensforberedelse, teoriopsamling.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Buusman, Allan.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T081500
+DTEND;TZID=Europe/Copenhagen:20181123T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54137B7                                                                                                                                                                                                                                                                                                20181123T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/10/07.\nBeskrivelse / Description:SAU10: 1000 m løb.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T101500
+DTEND;TZID=Europe/Copenhagen:20181123T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135A3                                                                                                                                                                                                                                                                                                20181123T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/09/1-11.\nBeskrivelse / Description:Cafetime 9: Kulhudrater 2.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T121500
+DTEND;TZID=Europe/Copenhagen:20181123T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DFB                                                                                                                                                                                                                                                                                                20181123T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/10 + Od01-E-Kemi/F/10.\nBeskrivelse / Description:F10: Lipider 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Vogel, Lotte.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T131500
+DTEND;TZID=Europe/Copenhagen:20181123T164500
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135C7                                                                                                                                                                                                                                                                                                20181123T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Laboratorieøvelse
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Øv/SAU12/02/07a.\nBeskrivelse / Description:Biomolekyle-øvelsen.\nUndervisningstype / Activity Type: Laboratorieøvelse.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Kemi Øvelseslab., Bygn. 8.1.33: .\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Kemi Øvelseslab., Bygn. 8.1.33: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181126T121500
+DTEND;TZID=Europe/Copenhagen:20181126T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D41                                                                                                                                                                                                                                                                                                20181126T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/21 + Od01B-E-HumBio/F/21.\nBeskrivelse / Description:F21: Luftveje og respiration 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Jacobsen, Jens Christian Brings.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181126T131500
+DTEND;TZID=Europe/Copenhagen:20181126T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D47                                                                                                                                                                                                                                                                                                20181126T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/22 + Od01B-E-HumBio/F/22.\nBeskrivelse / Description:F22: Luftveje og respiration 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Jacobsen, Jens Christian Brings.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181127T081500
+DTEND;TZID=Europe/Copenhagen:20181127T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541372D                                                                                                                                                                                                                                                                                                20181127T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/10/07.\nBeskrivelse / Description:SAU10: Lipider 1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 31.01.48a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 31.01.48a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181128T080000
+DTEND;TZID=Europe/Copenhagen:20181129T000000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54139D7                                                                                                                                                                                                                                                                                                20181128T08000020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-TPK/SAU24/11/01-11.\nBeskrivelse / Description:TPK: Opgaveaflevering via Digital eksamen.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181129T121500
+DTEND;TZID=Europe/Copenhagen:20181129T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413869                                                                                                                                                                                                                                                                                                20181129T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/11/07.\nBeskrivelse / Description:SAU11: Hosteanfald.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 31.01.60a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181129T141500
+DTEND;TZID=Europe/Copenhagen:20181129T160000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54136D3                                                                                                                                                                                                                                                                                                20181129T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU12
+DESCRIPTION:Aktivitet / Activity: Me01-E-Fys/SAU12/02/07.\nBeskrivelse / Description:Sau: Fysiologiøvelse 2: Kredsløb og Respiration.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Holm, Ninna Rose.\nLokale / Room: Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.39: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum, Panum - BMI, Und.lokale, Bygn. 10.1.39: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181130T081500
+DTEND;TZID=Europe/Copenhagen:20181130T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135A9                                                                                                                                                                                                                                                                                                20181130T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/10/1-11.\nBeskrivelse / Description:Cafetime 10: Lipider 1.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181130T121500
+DTEND;TZID=Europe/Copenhagen:20181130T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DB3                                                                                                                                                                                                                                                                                                20181130T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/11 + Od01-E-Kemi/F/11.\nBeskrivelse / Description:F11: Lipider 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Vogel, Lotte.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181203T121500
+DTEND;TZID=Europe/Copenhagen:20181203T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D4D                                                                                                                                                                                                                                                                                                20181203T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/23 + Od01B-E-HumBio/F/23.\nBeskrivelse / Description:F23: Nyrer og urinveje 1.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Sørensen, Charlotte Mehlin.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181203T131500
+DTEND;TZID=Europe/Copenhagen:20181203T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D53                                                                                                                                                                                                                                                                                                20181203T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/24 + Od01B-E-HumBio/F/24.\nBeskrivelse / Description:F24: Nyrer og urinveje 2.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Sørensen, Charlotte Mehlin.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181204T081500
+DTEND;TZID=Europe/Copenhagen:20181204T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54137DB                                                                                                                                                                                                                                                                                                20181204T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/11/07.\nBeskrivelse / Description:SAU11: Lipider 2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jensen, Jan.\nLokale / Room: Panum - 13.2.25, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.2.25, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181204T101500
+DTEND;TZID=Europe/Copenhagen:20181204T120000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54134F5                                                                                                                                                                                                                                                                                                20181204T10150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Anatomiske demonstrationer
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/AnDemo/SAU8/03/07/a.\nBeskrivelse / Description:AD3 – Indre organer.\nUndervisningstype / Activity Type: Anatomiske demonstrationer.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181204T141500
+DTEND;TZID=Europe/Copenhagen:20181204T160000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413581                                                                                                                                                                                                                                                                                                20181204T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Anatomiske demonstrationer
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/AnDemo/SAU8/03/07/c.\nBeskrivelse / Description:AD3 – Indre organer.\nUndervisningstype / Activity Type: Anatomiske demonstrationer.\nUnderviser / Staff: .\nLokale / Room: Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - ICMM, Mak.lokale, Bygn. 14.01.35: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T081500
+DTEND;TZID=Europe/Copenhagen:20181207T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135AB                                                                                                                                                                                                                                                                                                20181207T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/11/1-11.\nBeskrivelse / Description:Cafetime 11: Lipider 2.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T121500
+DTEND;TZID=Europe/Copenhagen:20181207T130000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412DB9                                                                                                                                                                                                                                                                                                20181207T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/12 + Od01-E-Kemi/F/12.\nBeskrivelse / Description:F12: Nukleotider.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Blasius, Melanie.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T131500
+DTEND;TZID=Europe/Copenhagen:20181207T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541378B                                                                                                                                                                                                                                                                                                20181207T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/12/07.\nBeskrivelse / Description:SAU12: Halsbetændelse.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 15.2.27b Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.27b Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181210T141500
+DTEND;TZID=Europe/Copenhagen:20181210T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D59                                                                                                                                                                                                                                                                                                20181210T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-HumBio/F/25 + Od01B-E-HumBio/F/25.\nBeskrivelse / Description:F25: Væske-, elektrolyt- og syre-baseregulation.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Sørensen, Charlotte Mehlin.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181211T081500
+DTEND;TZID=Europe/Copenhagen:20181211T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541371F                                                                                                                                                                                                                                                                                                20181211T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/SAU24/12/07.\nBeskrivelse / Description:SAU12: Nukleotider.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Tollenaere, Maxim.\nLokale / Room: Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 13.1.62, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181213T121500
+DTEND;TZID=Europe/Copenhagen:20181213T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413701                                                                                                                                                                                                                                                                                                20181213T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/13/07.\nBeskrivelse / Description:SAU13: Væsketab ved opkastning og diarré.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 15.2.15 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 15.2.15 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181213T141500
+DTEND;TZID=Europe/Copenhagen:20181213T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413699                                                                                                                                                                                                                                                                                                20181213T14150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU12
+DESCRIPTION:Aktivitet / Activity: Me01-E-Fys/SAU12/03/07/a.\nBeskrivelse / Description:Sau: Fysiologiøvelse 3: pH/bicarbonat.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Holm, Ninna Rose.\nLokale / Room: Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 10.1.40, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181214T081500
+DTEND;TZID=Europe/Copenhagen:20181214T100000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC54135AD                                                                                                                                                                                                                                                                                                20181214T08150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Cafetimer
+DESCRIPTION:Aktivitet / Activity: Me01-E-Kemi/Caf/12/1-11.\nBeskrivelse / Description:Cafetime 12: Nukleotider - Opsamlingstimer.\nUndervisningstype / Activity Type: Cafetimer.\nUnderviser / Staff: Jensen, Jan, Gesmar, Henrik.\nLokale / Room: Panum - Aud. Victor Haderup: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Victor Haderup: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181219T121500
+DTEND;TZID=Europe/Copenhagen:20181219T130000
+DTSTAMP:20180821T050635
+UID:EBD60EA584595A996E835CE969159D5C                                                                                                                                                                                                                                                                                                20181219T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Tilbudsundervisning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Humbio/F0 + Od1B-E-Humbio/F0.\nBeskrivelse / Description:Eksamensteknik - Tilbudsundervisning.\nUndervisningstype / Activity Type: Tilbudsundervisning.\nUnderviser / Staff: Thomsen, Morten Bækgaard.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181219T131500
+DTEND;TZID=Europe/Copenhagen:20181219T150000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413847                                                                                                                                                                                                                                                                                                20181219T13150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - SAU24
+DESCRIPTION:Aktivitet / Activity: Me01-E-HumBio/SAU24/14/07.\nBeskrivelse / Description:SAU14: Lakrids - ikke kun til ganen.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: El Ali, Henrik H..\nLokale / Room: Panum - 31.01.4a, Und.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: 107A;
+LOCATION:Panum - 31.01.4a, Und.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190107T083000
+DTEND;TZID=Europe/Copenhagen:20190107T163000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541394B                                                                                                                                                                                                                                                                                                20190107T08300020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Eksamen
+DESCRIPTION:Aktivitet / Activity: Eksamen i tidlig patientkontakt og førstehjælp.\nBeskrivelse / Description:Eksamen alle hold.\nUndervisningstype / Activity Type: Eksamen.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190108T083000
+DTEND;TZID=Europe/Copenhagen:20190108T163000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5413951                                                                                                                                                                                                                                                                                                20190108T08300020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Eksamen
+DESCRIPTION:Aktivitet / Activity: Eksamen i tidlig patientkontakt og førstehjælp.\nBeskrivelse / Description:Eksamen alle hold.\nUndervisningstype / Activity Type: Eksamen.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190109T083000
+DTEND;TZID=Europe/Copenhagen:20190109T163000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541394F                                                                                                                                                                                                                                                                                                20190109T08300020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Eksamen
+DESCRIPTION:Aktivitet / Activity: Eksamen i tidlig patientkontakt og førstehjælp.\nBeskrivelse / Description:Eksamen alle hold.\nUndervisningstype / Activity Type: Eksamen.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190110T083000
+DTEND;TZID=Europe/Copenhagen:20190110T163000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC541394D                                                                                                                                                                                                                                                                                                20190110T08300020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i tidlig patientkontakt og førstehjælp - Eksamen
+DESCRIPTION:Aktivitet / Activity: Eksamen i tidlig patientkontakt og førstehjælp.\nBeskrivelse / Description:Eksamen alle hold.\nUndervisningstype / Activity Type: Eksamen.\nUnderviser / Staff: .\nLokale / Room: .\nHold / Student Set: 107A;
+LOCATION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190114T121500
+DTEND;TZID=Europe/Copenhagen:20190114T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D05                                                                                                                                                                                                                                                                                                20190114T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/13+14 + Od01B-E-Kemi/F/13+14.\nBeskrivelse / Description:F13+14: Eksamensforelæsning.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Bisgaard, Hanne Cathrine.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190115T121500
+DTEND;TZID=Europe/Copenhagen:20190115T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D0B                                                                                                                                                                                                                                                                                                20190115T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/15+16 + Od01B-E-Kemi/F/15+16.\nBeskrivelse / Description:F15+16: Eksamensforelæsning.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Bisgaard, Hanne Cathrine.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20190116T121500
+DTEND;TZID=Europe/Copenhagen:20190116T140000
+DTSTAMP:20180821T050635
+UID:78D7D3BE2CF253C4C408DF1CC5412D11                                                                                                                                                                                                                                                                                                20190116T12150020180821T050635
+CLASS:PUBLIC
+CREATED:20180821T050635
+LAST-MODIFIED:20180821T050635
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i basal humanbiologi og cellens kemiske komponenter - Fællesforelæsning
+DESCRIPTION:Aktivitet / Activity: Fællesforelæsning - Me01-E-Kemi/F/17+18 + Od01B-E-Kemi/F/17+18.\nBeskrivelse / Description:F17+18: Eksamensforelæsning.\nUndervisningstype / Activity Type: Fællesforelæsning.\nUnderviser / Staff: Bisgaard, Hanne Cathrine.\nLokale / Room: Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet.\nHold / Student Set: 107A;
+LOCATION:Panum - Aud. Niels K. Jerne - Mærsk: Blegdamsvej 3 / Panum Instituttet
+TRANSP:OPAQUE
+END:VEVENT
+
+END:VCALENDAR

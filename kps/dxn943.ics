@@ -1,0 +1,1062 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scientia Ltd//iCalendar Server v 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT24H
+X-WR-CALNAME:Københavns Universitet Skema: 537323 - Therese Spangenberg Frausing
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+X-LIC-LOCATION:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET 
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180827T091500
+DTEND;TZID=Europe/Copenhagen:20180827T110000
+DTSTAMP:20180828T050554
+UID:4EF278CF8DF343B10D1793A1DE6E337C                                                                                                                                                                                                                                                                                                20180827T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/01.\nBeskrivelse / Description:F: Introduktions-forlæsning + Administrativ farmakologi og Samspillet mellem lægemiddelproducenter og det offentlige sundhedssystem     (HePo).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Henrik Enghusen.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180827T121500
+DTEND;TZID=Europe/Copenhagen:20180827T140000
+DTSTAMP:20180828T050554
+UID:BEF94DB451804723FEF0309B40D3BF68                                                                                                                                                                                                                                                                                                20180827T12150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/02.\nBeskrivelse / Description:F: Fælles medicinkort, sektorovergang (LØR) , Antioxidanter 30-års historie (focus på naturmedicin), incl højdosis iv vitamin C, Cannabis (HePo).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Poulsen, Henrik Enghusen, Reuther, Lene Ørskov.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180828T091500
+DTEND;TZID=Europe/Copenhagen:20180828T110000
+DTSTAMP:20180828T050554
+UID:BEF94DB451804723FEF0309B40D3BF6A                                                                                                                                                                                                                                                                                                20180828T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/03.\nBeskrivelse / Description:F: Rationel farmakoterapi (SEA), Kriterier for behandlingseffekt (TSP).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Andersen, Stig Ejdrup, Petersen, Tonny Studsgaard.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180828T121500
+DTEND;TZID=Europe/Copenhagen:20180828T140000
+DTSTAMP:20180828T050554
+UID:BEF94DB451804723FEF0309B40D3BF75                                                                                                                                                                                                                                                                                                20180828T12150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/04.\nBeskrivelse / Description:F: Rationel behandling af udvalgte sygdomme – eksemplet diabetes og depression (MC)   Den multimedicinerede patient og medicingennemgang (LØR).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Christensen, Mikkel Bring, Reuther, Lene Ørskov.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T091500
+DTEND;TZID=Europe/Copenhagen:20180829T100000
+DTSTAMP:20180828T050554
+UID:9F196539E855CB5E1BC2CA412400FAFB                                                                                                                                                                                                                                                                                                20180829T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/01/10.\nBeskrivelse / Description:Hl: Patientinformation, træning -  se www.rhpharm.dk.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Andersen, Jon Thor Trærup.\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T110000
+DTEND;TZID=Europe/Copenhagen:20180829T114500
+DTSTAMP:20180828T050554
+UID:E5BF4566C5B44153FF714E834F007BAB                                                                                                                                                                                                                                                                                                20180829T11000020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/02/10.\nBeskrivelse / Description:Hl: Ordination 1 - se www.rhpharm.dk.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Christiansen, Marie Louise S.\nLokale / Room: Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T121500
+DTEND;TZID=Europe/Copenhagen:20180829T130000
+DTSTAMP:20180828T050554
+UID:9F196539E855CB5E1BC2CA412400FB20                                                                                                                                                                                                                                                                                                20180829T12150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/03/10.\nBeskrivelse / Description:Hl: Ordination 2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Eliasen, Astrid.\nLokale / Room: Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.2.51, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180829T131500
+DTEND;TZID=Europe/Copenhagen:20180829T140000
+DTSTAMP:20180828T050554
+UID:E5BF4566C5B44153FF714E834F007BBF                                                                                                                                                                                                                                                                                                20180829T13150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/04/10.\nBeskrivelse / Description:Hl: Ordination 3.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Edvinsson, Lars.\nLokale / Room: Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180830T091500
+DTEND;TZID=Europe/Copenhagen:20180830T110000
+DTSTAMP:20180828T050554
+UID:8DBEE2391A5C8C29B61A4886C6E98312                                                                                                                                                                                                                                                                                                20180830T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/05.\nBeskrivelse / Description:F: Farmakokinetik, -dynamik (GJ)  Interaktioner og TDM (GJ).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Jürgens, Gesche.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180830T121500
+DTEND;TZID=Europe/Copenhagen:20180830T140000
+DTSTAMP:20180828T050554
+UID:8DBEE2391A5C8C29B61A4886C6E98316                                                                                                                                                                                                                                                                                                20180830T12150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/06.\nBeskrivelse / Description:F: Lever og nyre (KD) Gravide, børn og ammende (JON).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Andersen, Jon Thor Trærup, Dalhoff, Kim.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180831T091500
+DTEND;TZID=Europe/Copenhagen:20180831T100000
+DTSTAMP:20180828T050554
+UID:9F196539E855CB5E1BC2CA412400FB38                                                                                                                                                                                                                                                                                                20180831T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/05/10.\nBeskrivelse / Description:Hl: Interaktioner.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Horwitz, Henrik.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180831T101500
+DTEND;TZID=Europe/Copenhagen:20180831T110000
+DTSTAMP:20180828T050554
+UID:E5BF4566C5B44153FF714E834F007BD3                                                                                                                                                                                                                                                                                                20180831T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/06/10.\nBeskrivelse / Description:Hl: Farmakokinetik.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jürgens, Gesche.\nLokale / Room: Panum - 13.1.83, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.1.83, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180903T091500
+DTEND;TZID=Europe/Copenhagen:20180903T110000
+DTSTAMP:20180828T050554
+UID:8DBEE2391A5C8C29B61A4886C6E98318                                                                                                                                                                                                                                                                                                20180903T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/07.\nBeskrivelse / Description:F: Bivirkninger (ESP) forgiftninger (KD).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Dalhoff, Kim, Solem, Espen Victor Jimenez.\nLokale / Room: Panum - Aud. Victor Haderup: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Victor Haderup: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180903T121500
+DTEND;TZID=Europe/Copenhagen:20180903T140000
+DTSTAMP:20180828T050554
+UID:8DBEE2391A5C8C29B61A4886C6E9831A                                                                                                                                                                                                                                                                                                20180903T12150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/08.\nBeskrivelse / Description:F: Lægemidlers udvikling og godkendelse  (KIR)  Biologiske lægemidler, biosimilars, avanceret terapi (KIR).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Harboe, Kirstine Moll.\nLokale / Room: Panum - Aud. Victor Haderup: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Victor Haderup: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T091500
+DTEND;TZID=Europe/Copenhagen:20180904T100000
+DTSTAMP:20180828T050554
+UID:9F196539E855CB5E1BC2CA412400FB46                                                                                                                                                                                                                                                                                                20180904T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/07/10.\nBeskrivelse / Description:Hl: Specifikke behandlinger.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Horwitz, Henrik.\nLokale / Room: Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.1.80, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T101500
+DTEND;TZID=Europe/Copenhagen:20180904T110000
+DTSTAMP:20180828T050554
+UID:E5BF4566C5B44153FF714E834F007CC9                                                                                                                                                                                                                                                                                                20180904T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/08/10.\nBeskrivelse / Description:Hl: Polyfarmaci.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Harboe, Kirstine Moll.\nLokale / Room: Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T121500
+DTEND;TZID=Europe/Copenhagen:20180904T130000
+DTSTAMP:20180828T050554
+UID:9F196539E855CB5E1BC2CA412400FA99                                                                                                                                                                                                                                                                                                20180904T12150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/09/10.\nBeskrivelse / Description:Hl: Rationel farmakoterapi.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Jürgens, Gesche.\nLokale / Room: Panum - 13.1.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.1.36, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180904T131500
+DTEND;TZID=Europe/Copenhagen:20180904T140000
+DTSTAMP:20180828T050554
+UID:E5BF4566C5B44153FF714E834F007B97                                                                                                                                                                                                                                                                                                20180904T13150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/10/10.\nBeskrivelse / Description:Hl: Valg af behandling udfra pris og effekt.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Andersen, Jon Thor Trærup.\nLokale / Room: Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.1.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180905T091500
+DTEND;TZID=Europe/Copenhagen:20180905T100000
+DTSTAMP:20180828T050554
+UID:9F196539E855CB5E1BC2CA412400FAE1                                                                                                                                                                                                                                                                                                20180905T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/11/10.\nBeskrivelse / Description:Hl: Risikogrupper2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Reuther, Lene Ørskov.\nLokale / Room: Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.2.48, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180905T101500
+DTEND;TZID=Europe/Copenhagen:20180905T110000
+DTSTAMP:20180828T050554
+UID:E5BF4566C5B44153FF714E834F007B7F                                                                                                                                                                                                                                                                                                20180905T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/12/10.\nBeskrivelse / Description:Hl: Risikogrupper1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Andersen, Stig Ejdrup.\nLokale / Room: Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.2.49, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180905T121500
+DTEND;TZID=Europe/Copenhagen:20180905T130000
+DTSTAMP:20180828T050554
+UID:9F196539E855CB5E1BC2CA412400FAE9                                                                                                                                                                                                                                                                                                20180905T12150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/13/10.\nBeskrivelse / Description:Hl: Bivirkninger.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Christiansen, Marie Louise S.\nLokale / Room: Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 13.2.69, Und.lokale - Mærsk: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180905T131500
+DTEND;TZID=Europe/Copenhagen:20180905T140000
+DTSTAMP:20180828T050554
+UID:E5BF4566C5B44153FF714E834F007B31                                                                                                                                                                                                                                                                                                20180905T13150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - SAU24
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/Hl/14/10.\nBeskrivelse / Description:Hl: Forgiftninger.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Christensen, Mikkel Bring.\nLokale / Room: Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - 15.2.26 Mik.lokale: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180906T091500
+DTEND;TZID=Europe/Copenhagen:20180906T110000
+DTSTAMP:20180828T050554
+UID:8DBEE2391A5C8C29B61A4886C6E9831C                                                                                                                                                                                                                                                                                                20180906T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/09.\nBeskrivelse / Description:F: Naturlægemidler- kosttilskud, forbrug, interaktioner (KD) Eksempler på Multipel Choice og kortsvaropgaver (HEPO).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Dalhoff, Kim, Poulsen, Henrik Enghusen.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180911T111500
+DTEND;TZID=Europe/Copenhagen:20180911T130000
+DTSTAMP:20180828T050554
+UID:8DBEE2391A5C8C29B61A4886C6E9831E                                                                                                                                                                                                                                                                                                20180911T11150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i klinisk farmakologi og terapi - Forelæsning
+DESCRIPTION:Aktivitet / Activity: 3907-E18;Kursus i klinisk farmakologi og terapi/F/10.\nBeskrivelse / Description:F: Alternative behandlinger i Danmark  + Naturlægemidler og kosttilskud, patientens verden (JWL).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Langer, Jerk W..\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Hold 10;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180912T081500
+DTEND;TZID=Europe/Copenhagen:20180912T090000
+DTSTAMP:20180828T050554
+UID:82A2FBBEE4B7F6B0F5485AF8D9D4E86B                                                                                                                                                                                                                                                                                                20180912T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Panum/SAU/rul 1+2+3.\nBeskrivelse / Description:Forelæsning i Patientsikkerhed 1 "Patientsikkerhed et overblik".\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Hellebek, Annemarie Hvidberg, Lyngberg, Ann Christine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: Patients rul 3B;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180912T091500
+DTEND;TZID=Europe/Copenhagen:20180912T100000
+DTSTAMP:20180828T050554
+UID:76B6D2981784833E1FCFC3B2228718EF                                                                                                                                                                                                                                                                                                20180912T09150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Panum/SAU/rul 1+2+3.\nBeskrivelse / Description:Forelæsning i kvalitet 2 "Medicineringsfejl".\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Hellebek, Annemarie Hvidberg, Lyngberg, Ann Christine.\nLokale / Room: Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum.\nHold / Student Set: Patients rul 3B;
+LOCATION:Panum - Aud. Einar Lundsgaard: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T074500
+DTEND;TZID=Europe/Copenhagen:20180917T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180917T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180917T080000
+DTEND;TZID=Europe/Copenhagen:20180917T153000
+DTSTAMP:20180828T050554
+UID:82A2FBBEE4B7F6B0F5485AF8D9D4E785                                                                                                                                                                                                                                                                                                20180917T08000020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-CAMES/E/rul 1+2+3.\nBeskrivelse / Description:Forelæsning + SAU / SIM (KUN FOR STUDERENDE, SOM SKAL PÅ FORHÅNDSGODKENDT UDLANDSOPHOLD I EFTERÅRET 2018).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Østergaard, Doris.\nLokale / Room: Herlev Hospital: .\nHold / Student Set: Patients rul 3B;
+LOCATION:Herlev Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180918T074500
+DTEND;TZID=Europe/Copenhagen:20180918T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180918T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180919T074500
+DTEND;TZID=Europe/Copenhagen:20180919T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180919T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180920T074500
+DTEND;TZID=Europe/Copenhagen:20180920T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180920T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180921T074500
+DTEND;TZID=Europe/Copenhagen:20180921T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180921T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180924T074500
+DTEND;TZID=Europe/Copenhagen:20180924T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180924T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180925T074500
+DTEND;TZID=Europe/Copenhagen:20180925T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180925T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180926T074500
+DTEND;TZID=Europe/Copenhagen:20180926T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180926T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180927T074500
+DTEND;TZID=Europe/Copenhagen:20180927T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180927T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20180928T074500
+DTEND;TZID=Europe/Copenhagen:20180928T151500
+DTSTAMP:20180828T050554
+UID:124B633F3E023F6A75869AB29214E506                                                                                                                                                                                                                                                                                                20180928T07450020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i anæstesiologi - Klinik på hospital
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gentofte/anæ/rul 3b.\nBeskrivelse / Description:Program udleveres af hospital.\nUndervisningstype / Activity Type: Klinik på hospital.\nUnderviser / Staff: Jensen, Frank Samsøe.\nLokale / Room: Gentofte Hospital: .\nHold / Student Set: Gentofte rul 3B;
+LOCATION:Gentofte Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181002T081500
+DTEND;TZID=Europe/Copenhagen:20181002T120000
+DTSTAMP:20180828T050554
+UID:82A2FBBEE4B7F6B0F5485AF8D9D4E811                                                                                                                                                                                                                                                                                                20181002T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Panum/SAU/rul 3.\nBeskrivelse / Description:Forelæsning: Sundhedsinformatik - Dag 1.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Lauritzen, Dorthe Furstrand.\nLokale / Room: Panum - Aud. Henrik Dam: Blegdamsvej 3 / Panum.\nHold / Student Set: Patients rul 3B;
+LOCATION:Panum - Aud. Henrik Dam: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181003T081500
+DTEND;TZID=Europe/Copenhagen:20181003T110000
+DTSTAMP:20180828T050554
+UID:3C0126886624453DB7EA584811E2D1B7                                                                                                                                                                                                                                                                                                20181003T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - SAU24
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Panum/SAU/rul 3.\nBeskrivelse / Description:SAU - Dag 1.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Hellebek, Annemarie Hvidberg, Lyngberg, Ann Christine.\nLokale / Room: Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum.\nHold / Student Set: Patients rul 3B;
+LOCATION:Panum - Aud. Adolf Hannover: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181004T081500
+DTEND;TZID=Europe/Copenhagen:20181004T120000
+DTSTAMP:20180828T050554
+UID:82A2FBBEE4B7F6B0F5485AF8D9D4E823                                                                                                                                                                                                                                                                                                20181004T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Panum/SAU/rul 3.\nBeskrivelse / Description:Forelæsning: Sundhedsinformatik - Dag 2.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Lauritzen, Dorthe Furstrand.\nLokale / Room: Panum - Aud. Henrik Dam: Blegdamsvej 3 / Panum.\nHold / Student Set: Patients rul 3B;
+LOCATION:Panum - Aud. Henrik Dam: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181004T131500
+DTEND;TZID=Europe/Copenhagen:20181004T140000
+DTSTAMP:20180828T050554
+UID:469A1886B9611D729378CC511202DE54                                                                                                                                                                                                                                                                                                20181004T13150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Panum/SAU/rul 3.\nBeskrivelse / Description:Forelæsning: Sundhedsinformatik - Dag 2 - fortsat.\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Lauritzen, Dorthe Furstrand.\nLokale / Room: Panum - Aud. Henrik Dam: Blegdamsvej 3 / Panum.\nHold / Student Set: Patients rul 3B;
+LOCATION:Panum - Aud. Henrik Dam: Blegdamsvej 3 / Panum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181005T081500
+DTEND;TZID=Europe/Copenhagen:20181005T120000
+DTSTAMP:20180828T050554
+UID:DA0BF48E3A9F06CD8573B511D797A364                                                                                                                                                                                                                                                                                                20181005T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - SAU24
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Panum/SAU/rul 3.\nBeskrivelse / Description:SAU - Dag 2.\nUndervisningstype / Activity Type: SAU24.\nUnderviser / Staff: Hellebek, Annemarie Hvidberg, Lyngberg, Ann Christine.\nLokale / Room: Panum - Aud. Nielsine Nielsen (amfi) - Mærsk: .\nHold / Student Set: Patients rul 3B;
+LOCATION:Panum - Aud. Nielsine Nielsen (amfi) - Mærsk: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181009T080000
+DTEND;TZID=Europe/Copenhagen:20181009T153000
+DTSTAMP:20180828T050554
+UID:82A2FBBEE4B7F6B0F5485AF8D9D4E787                                                                                                                                                                                                                                                                                                20181009T08000020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Kursus i patientsikkerhed og kvalitetsudvikling - Forelæsning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-CAMES/E/rul 3B.\nBeskrivelse / Description:Forelæsning + SAU / SIM (lokale K11, K13, K14, K2, K21).\nUndervisningstype / Activity Type: Forelæsning.\nUnderviser / Staff: Østergaard, Doris.\nLokale / Room: Herlev Hospital: .\nHold / Student Set: Patients rul 3B;
+LOCATION:Herlev Hospital: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181016T090000
+DTEND;TZID=Europe/Copenhagen:20181016T160000
+DTSTAMP:20180828T050554
+UID:818895FE2489BD3438A80BA1A3C2CE86                                                                                                                                                                                                                                                                                                20181016T09000020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;CAMES Stuegang - Undervisning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Stuegang/H.\nBeskrivelse / Description:Stuegang.\nUndervisningstype / Activity Type: Undervisning.\nUnderviser / Staff: .\nLokale / Room: CAMES/Hammershusgade 11/lokale 0108: .\nHold / Student Set: Hold H (rul 3B);
+LOCATION:CAMES/Hammershusgade 11/lokale 0108: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181022T081500
+DTEND;TZID=Europe/Copenhagen:20181022T090000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6A56                                                                                                                                                                                                                                                                                                20181022T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/kursus/rul 3.\nBeskrivelse / Description:Fælles introduktion Gentofte Hospital.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Ravn, Pernille.\nLokale / Room: Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181031T123000
+DTEND;TZID=Europe/Copenhagen:20181031T141500
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6C42                                                                                                                                                                                                                                                                                                20181031T12300020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Videncenter for Reumatologi og Rygsygdomme.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Pødenphanth, Jan.\nLokale / Room: Gentofte Hosp. - Reum. Amb - opgang 6A 1: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Reum. Amb - opgang 6A 1: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181102T081500
+DTEND;TZID=Europe/Copenhagen:20181102T100000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6C0A                                                                                                                                                                                                                                                                                                20181102T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Hjertemedicinsk.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Sørensen, Samuel Kiil.\nLokale / Room: Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181102T101500
+DTEND;TZID=Europe/Copenhagen:20181102T120000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6B1E                                                                                                                                                                                                                                                                                                20181102T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Medicinsk afdeling.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Ravn, Pernille.\nLokale / Room: Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181105T080000
+DTEND;TZID=Europe/Copenhagen:20181105T140000
+DTSTAMP:20180828T050554
+UID:042D2022DA744FA1DE84AE48E4D71C24                                                                                                                                                                                                                                                                                                20181105T08000020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;CAMES Kommunikation - Undervisning
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Kommunikation/31.\nBeskrivelse / Description:Kommunikation.\nUndervisningstype / Activity Type: Undervisning.\nUnderviser / Staff: Brandt, Pernille Dall.\nLokale / Room: CAMES/Aldersrogade 6C 3. sal/412: .\nHold / Student Set: Hold 31 (3B);
+LOCATION:CAMES/Aldersrogade 6C 3. sal/412: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181109T081500
+DTEND;TZID=Europe/Copenhagen:20181109T100000
+DTSTAMP:20180828T050554
+UID:740F2A2F681DEA2F3F40766B4A6AAAD6                                                                                                                                                                                                                                                                                                20181109T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i kirurgi - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Ort.kir. afd. Z.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Solgård, Lars.\nLokale / Room: Gentofte Hosp. - Konf.rum, 4. sal, opg. 12: .\nHold / Student Set: Gen-ortopæ-r3B;
+LOCATION:Gentofte Hosp. - Konf.rum, 4. sal, opg. 12: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181109T101500
+DTEND;TZID=Europe/Copenhagen:20181109T120000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6AC8                                                                                                                                                                                                                                                                                                20181109T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Lungemed. afd. Y.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Wilcke, Jon Torgny Rostrup.\nLokale / Room: Gentofte Hosp. - Lokale Y-701: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Lokale Y-701: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181109T123000
+DTEND;TZID=Europe/Copenhagen:20181109T141500
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6E2C                                                                                                                                                                                                                                                                                                20181109T12300020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Relevante undersøgelsesprogrammer på akutte pt. og de væsentligste store grupper.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Ravn, Pernille.\nLokale / Room: Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181116T081500
+DTEND;TZID=Europe/Copenhagen:20181116T100000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6B08                                                                                                                                                                                                                                                                                                20181116T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Lungemed. afd. Y.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Wilcke, Jon Torgny Rostrup.\nLokale / Room: Gentofte Hosp. - Lokale Y-701: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Lokale Y-701: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181116T101500
+DTEND;TZID=Europe/Copenhagen:20181116T120000
+DTSTAMP:20180828T050554
+UID:740F2A2F681DEA2F3F40766B4A6AAADC                                                                                                                                                                                                                                                                                                20181116T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i kirurgi - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Kar.kir. afd. J.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Klitfod, Lotte.\nLokale / Room: Gentofte Hosp. - Konf.rum, Afd. J: .\nHold / Student Set: Gen-ortopæ-r3B;
+LOCATION:Gentofte Hosp. - Konf.rum, Afd. J: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181116T123000
+DTEND;TZID=Europe/Copenhagen:20181116T141500
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6C46                                                                                                                                                                                                                                                                                                20181116T12300020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 3.\nBeskrivelse / Description:Medicinsk afdeling.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Usinger, Lotte.\nLokale / Room: Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181121T101500
+DTEND;TZID=Europe/Copenhagen:20181121T120000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6B56                                                                                                                                                                                                                                                                                                20181121T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 3.\nBeskrivelse / Description:videncenter for Reumatologi og Rygsygdomme.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Pødenphanth, Jan.\nLokale / Room: Gentofte Hosp. - Reum. Amb - opgang 6A 1: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Reum. Amb - opgang 6A 1: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T081500
+DTEND;TZID=Europe/Copenhagen:20181123T100000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6E8E                                                                                                                                                                                                                                                                                                20181123T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/klinik/rul 3.\nBeskrivelse / Description:Skrive epikriser og anføre diagnose og behandlingskoder.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Ravn, Pernille.\nLokale / Room: Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181123T123000
+DTEND;TZID=Europe/Copenhagen:20181123T141500
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6C0C                                                                                                                                                                                                                                                                                                20181123T12300020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 1+3.\nBeskrivelse / Description:Hjertemedicinsk.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Sørensen, Samuel Kiil.\nLokale / Room: Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181130T081500
+DTEND;TZID=Europe/Copenhagen:20181130T100000
+DTSTAMP:20180828T050554
+UID:740F2A2F681DEA2F3F40766B4A6AAAD8                                                                                                                                                                                                                                                                                                20181130T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i kirurgi - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Kar.kir. afd. J.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Klitfod, Lotte.\nLokale / Room: Gentofte Hosp. - Konf.rum, Afd. J: .\nHold / Student Set: Gen-ortopæ-r3B;
+LOCATION:Gentofte Hosp. - Konf.rum, Afd. J: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181130T101500
+DTEND;TZID=Europe/Copenhagen:20181130T120000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6C48                                                                                                                                                                                                                                                                                                20181130T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Medicinsk afdeling.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Usinger, Lotte.\nLokale / Room: Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181130T123000
+DTEND;TZID=Europe/Copenhagen:20181130T141500
+DTSTAMP:20180828T050554
+UID:740F2A2F681DEA2F3F40766B4A6AAADE                                                                                                                                                                                                                                                                                                20181130T12300020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i kirurgi - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Ort.kir. afd. Z.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Solgård, Lars.\nLokale / Room: Gentofte Hosp. - Konf.rum, 4. sal, opg. 12: .\nHold / Student Set: Gen-ortopæ-r3B;
+LOCATION:Gentofte Hosp. - Konf.rum, 4. sal, opg. 12: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T081500
+DTEND;TZID=Europe/Copenhagen:20181207T100000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6B0A                                                                                                                                                                                                                                                                                                20181207T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Lungemed. afd. Y.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Wilcke, Jon Torgny Rostrup.\nLokale / Room: Gentofte Hosp. - Lokale Y-701: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Lokale Y-701: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T101500
+DTEND;TZID=Europe/Copenhagen:20181207T120000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6C06                                                                                                                                                                                                                                                                                                20181207T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Hjertemedicinsk.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Sørensen, Samuel Kiil.\nLokale / Room: Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181207T123000
+DTEND;TZID=Europe/Copenhagen:20181207T141500
+DTSTAMP:20180828T050554
+UID:740F2A2F681DEA2F3F40766B4A6AAAE0                                                                                                                                                                                                                                                                                                20181207T12300020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i kirurgi - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Ort.kir. afd. Z.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Solgård, Lars.\nLokale / Room: Gentofte Hosp. - Konf.rum, 4. sal, opg. 12: .\nHold / Student Set: Gen-ortopæ-r3B;
+LOCATION:Gentofte Hosp. - Konf.rum, 4. sal, opg. 12: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181213T081500
+DTEND;TZID=Europe/Copenhagen:20181213T100000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6C08                                                                                                                                                                                                                                                                                                20181213T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Hjertemedicinsk.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Sørensen, Samuel Kiil.\nLokale / Room: Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Opg. 8, 3. sal, th. lokale E3-455: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181213T101500
+DTEND;TZID=Europe/Copenhagen:20181213T120000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6E48                                                                                                                                                                                                                                                                                                20181213T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Relevante undersøgelsesprogrammer på akutte pt. og de væsentligste store grupper.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Usinger, Lotte.\nLokale / Room: Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Konf. rum, Afd. C, opgang 2,3. sal: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181213T123000
+DTEND;TZID=Europe/Copenhagen:20181213T141500
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6B54                                                                                                                                                                                                                                                                                                20181213T12300020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Videncenter for Reumatologi og Rygsygdomme.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Pødenphanth, Jan.\nLokale / Room: Gentofte Hosp. - Reum. Amb - opgang 6A 1: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Reum. Amb - opgang 6A 1: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181214T081500
+DTEND;TZID=Europe/Copenhagen:20181214T100000
+DTSTAMP:20180828T050554
+UID:740F2A2F681DEA2F3F40766B4A6AAAE4                                                                                                                                                                                                                                                                                                20181214T08150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i kirurgi - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 3.\nBeskrivelse / Description:Ort.kir.afd.Z (Bandagering og anlæggelse af gips).\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Solgård, Lars.\nLokale / Room: Gentofte Hosp. - Konf.rum, stuen, opg. 17: .\nHold / Student Set: Gen-ortopæ-r3B;
+LOCATION:Gentofte Hosp. - Konf.rum, stuen, opg. 17: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20181214T101500
+DTEND;TZID=Europe/Copenhagen:20181214T120000
+DTSTAMP:20180828T050554
+UID:EDB83C25D7F3D71BE81F5B3521AD6B0C                                                                                                                                                                                                                                                                                                20181214T10150020180828T050554
+CLASS:PUBLIC
+CREATED:20180828T050554
+LAST-MODIFIED:20180828T050554
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3907-E18;Klinisk kursus i intern medicin - SAU12
+DESCRIPTION:Aktivitet / Activity: Me02K-E-Gen/Klinik/rul 2+3.\nBeskrivelse / Description:Lungemed. afd. Y.\nUndervisningstype / Activity Type: SAU12.\nUnderviser / Staff: Wilcke, Jon Torgny Rostrup.\nLokale / Room: Gentofte Hosp. - Lokale Y-701: .\nHold / Student Set: Gen-med-r3B;
+LOCATION:Gentofte Hosp. - Lokale Y-701: 
+TRANSP:OPAQUE
+END:VEVENT
+
+END:VCALENDAR
